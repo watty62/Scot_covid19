@@ -8,4 +8,6 @@ A friend supplied me with data from 24 Jan 2020 to 6th March to fill in gaps.
 
 I am currently looking for an API similar to Public Health England's one to automate updates. 
 
+I've added the Health Board codes from the [NHS Scotland Open Data Store](https://www.opendata.nhs.scot/dataset/geography-codes-and-labels/resource/652ff726-e676-4a20-abda-435b98dd7bdc) which is published under OGL. 
+
 
