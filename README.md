@@ -11,7 +11,7 @@ I am currently looking for an API similar to Public Health England's one to auto
 ## Other data
 I've added the Health Board codes from the [NHS Scotland Open Data Store](https://www.opendata.nhs.scot/dataset/geography-codes-and-labels/resource/652ff726-e676-4a20-abda-435b98dd7bdc). 
 
-I've also added a July 2019 [poulation estimate file](HB_pop_est_2019.csv) from [NHS Scotland Open Data Store](https://www.opendata.nhs.scot/dataset/population-estimates/resource/27a72cc8-d6d8-430c-8b4f-3109a9ceadb1). Both are published under OGL.
+I've also added a July 2019 [poulation estimate file](hb2014_pop_est_01072019.csv) from [NHS Scotland Open Data Store](https://www.opendata.nhs.scot/dataset/population-estimates/resource/27a72cc8-d6d8-430c-8b4f-3109a9ceadb1). Both are published under OGL. 
 
 ## Other resources
 I also recommend Tom White's Github repo [Covid-19-UK-Data](https://github.com/tomwhite/covid-19-uk-data) which is broader and more code-driven for now. We may start collaborating / merging these. 
