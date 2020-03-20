@@ -1,5 +1,5 @@
 # Scot_covid19
-* Update 20 Mar 2020 * I have now [blogeed](https://codethecity.org/2020/03/20/scotlands-covid-19-open-data/) about the need for better open data from the government in Scotland. 
+__Update 20 Mar 2020__ I have now [blogged](https://codethecity.org/2020/03/20/scotlands-covid-19-open-data/) about the need for better open data from the government in Scotland. 
 
 This primarily consists of text files (CSV) containing results of Covid-19 testing in Scotland. 
 
