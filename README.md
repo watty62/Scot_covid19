@@ -1,8 +1,10 @@
 # Scot_covid19
+* Update 20 Mar 2020 * I have now [blogeed](https://codethecity.org/2020/03/20/scotlands-covid-19-open-data/) about the need for better open data from the government in Scotland. 
+
 This primarily consists of text files (CSV) containing results of Covid-19 testing in Scotland. 
 
 ## Data
-__Update 18-Mar-2020__ I've moved data into a directory, with sub-directories for _raw_ and _processed_ data.
+This now sits in a /data directory with subdirectory for raw and processed data.
 
 ### Data Sources
 * The source of data from 06 March to 13 March 2020 is the [Internet Wayback Machine](https://archive.org/search.php?query=https%3A%2F%2Fwww.gov.scot%2Fcoronavirus-covid-19%2F). 
