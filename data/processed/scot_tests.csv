@@ -1,4 +1,4 @@
-Date,Conducted,Today Positive,Today Negative,Total Positive,Total Negative,Total
+Date,Conducted,Today Negative,Today Positive,Total Positive,Total Negative,Total
 24-Jan-2020,2,0,2,0,2,2
 25-Jan-2020,3,0,3,0,5,5
 26-Jan-2020,1,0,1,0,6,6
@@ -59,3 +59,4 @@ Date,Conducted,Today Positive,Today Negative,Total Positive,Total Negative,Total
 21-Mar-2020,709,51,658,373,7886,8259
 22-Mar-2020,420,43,377,416,8263,8679
 23-Mar-2020,685,83,602,499,8865,9364
+24-Mar-2020,604,85,519,584,9384,9968
