@@ -1,5 +1,7 @@
 # Scot_covid19
-__Update 20 Mar 2020__ I have now [blogged](https://codethecity.org/2020/03/20/scotlands-covid-19-open-data/) about the need for better open data from the government in Scotland. 
+__Update 27 Mar 2020__ I have added the number of [patients in Intensive Care](data/processed/intensive_case.csv) from news conferences attended by the First Minister or Chief Medical Officer. 
+
+I [blogged](https://codethecity.org/2020/03/20/scotlands-covid-19-open-data/) about the need for better open data from the government in Scotland. 
 
 This primarily consists of text files (CSV) containing results of Covid-19 testing in Scotland. 
 
@@ -11,8 +13,6 @@ This now sits in a /data directory with subdirectory for raw and processed data.
 * From 14 March 2020 the data is sourced directly from the Scottish Government's [webpage](https://www.gov.scot/coronavirus-covid-19/), and for now is manually added.
 
 * A friend supplied me with data from 24 Jan 2020 to 6th March to fill in gaps. 
-
-I am currently looking for an API similar to Public Health England's one to automate updates. 
 
 ### Other data
 I've added the Health Board codes from the [NHS Scotland Open Data Store](https://www.opendata.nhs.scot/dataset/geography-codes-and-labels/resource/652ff726-e676-4a20-abda-435b98dd7bdc) and a July 2019 [poulation estimate file](data/raw/hb2014_pop_est_01072019.csv) from [NHS Scotland Open Data Store](https://www.opendata.nhs.scot/dataset/population-estimates/resource/27a72cc8-d6d8-430c-8b4f-3109a9ceadb1). Both are published under OGL. 
