@@ -1,5 +1,7 @@
 # Scot_covid19
-__Update 27 Mar 2020__ I have added the number of [patients in Intensive Care](data/processed/intensive_case.csv) from news conferences attended by the First Minister or Chief Medical Officer. 
+__Update 02 Apr 2020__ Today the Scottish Government [announced](https://www.gov.scot/news/new-process-for-reporting-covid-19-deaths/) that the process for recording deaths had been changed. The data was updated tonight to reflect that. 
+
+I have added the number of [patients in Intensive Care](data/processed/intensive_case.csv) from news conferences attended by the First Minister or Chief Medical Officer. 
 
 I [blogged](https://codethecity.org/2020/03/20/scotlands-covid-19-open-data/) about the need for better open data from the government in Scotland. 
 
