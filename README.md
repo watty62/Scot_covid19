@@ -4,7 +4,9 @@ After exactly six weeks, and 120 commits to this repo, I've retired it. The data
 
 It was only ever designed to be a stop gap for a week or so while Scottish Government started to publish the daily data contained in the static HTML page as open data. 
 
-As of Friday, SG nw produce not only the [XLSX files](https://www.gov.scot/publications/trends-in-number-of-people-in-hospital-with-confirmed-or-suspected-covid-19/) that they introduced 10 days or so ago, but now their own [Github repo of CSVs](https://github.com/DataScienceScotland/COVID-19-Management-Information). 
+As of Friday, SG now produce not only the [XLSX files](https://www.gov.scot/publications/trends-in-number-of-people-in-hospital-with-confirmed-or-suspected-covid-19/) that they introduced 10 days or so ago, but now their own [Github repo of CSVs](https://github.com/DataScienceScotland/COVID-19-Management-Information). I've been helping them test the data over a couple of days. 
+
+Publication of that seems to be up to an hour after the offical HTML publication, but I know staff are doing this in their own time at weekends. The fact that it is being maintained openly and daily is great! 
 
 So, Ive advised all of those with whom I am in contact, who I know are using the data for analysis or data viz, to point their code at the new government repo. 
 
