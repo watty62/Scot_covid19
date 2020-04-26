@@ -1,5 +1,18 @@
 # Scot_covid19
-_Update 14 April 2020_ I've uploaded an improved scraper [Get Daily Data.Ipynb](Get%20Daily%20Data.ipynb). If you have Jupyter Notebooks you can download and run it for yourself. It is a scraper - so it is brittle. Any small change in [the target page](https://www.gov.scot/publications/coronavirus-covid-19-tests-and-cases-in-scotland/) can break it - as has happened three times in development. I'm also now capturing NHS Scotland [staff absences](data/processed/staff_absences.csv).
+Final update 26 April 2020. 
+After exactly six weeks, and 120 commits to this repo, I've retired it. The data will no longer be updated. 
+
+It was only ever designed to be a stop gap for a week or so while Scottish Government started to publish the daily data contained in the static HTML page as open data. 
+
+As of Friday, SG nw produce not only the [XLSX files](https://www.gov.scot/publications/trends-in-number-of-people-in-hospital-with-confirmed-or-suspected-covid-19/) that they introduced 10 days or so ago, but now their own [Github repo of CSVs](https://github.com/DataScienceScotland/COVID-19-Management-Information). 
+
+So, Ive advised all of those with whom I am in contact, who I know are using the data for analysis or data viz, to point their code at the new government repo. 
+
+Ian
+
+## Past updates
+
+I've uploaded an improved scraper [Get Daily Data.Ipynb](Get%20Daily%20Data.ipynb). If you have Jupyter Notebooks you can download and run it for yourself. It is a scraper - so it is brittle. Any small change in [the target page](https://www.gov.scot/publications/coronavirus-covid-19-tests-and-cases-in-scotland/) can break it - as has happened three times in development. I'm also now capturing NHS Scotland [staff absences](data/processed/staff_absences.csv).
 
 On 08 Apr 2020 the main Scottish Government page of Coronavirus information was moved to a new location. See _data_ below. 
 
