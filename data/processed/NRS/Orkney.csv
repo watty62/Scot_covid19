@@ -1,33 +1,24 @@
 ,DateCode,Number,Cause,Location,Name
-20,2020-02-10,0,COVID-19 related,All,Orkney
-24,2020-02-17,0,COVID-19 related,All,Orkney
-367,2020-03-09,0,COVID-19 related,All,Orkney
-438,2020-03-16,0,COVID-19 related,All,Orkney
-453,2020-03-23,0,COVID-19 related,All,Orkney
-478,2020-03-30,0,COVID-19 related,All,Orkney
-634,2019-12-30,0,COVID-19 related,All,Orkney
-694,2020-04-06,2,COVID-19 related,All,Orkney
-761,2020-01-06,0,COVID-19 related,All,Orkney
-841,2020-02-24,0,COVID-19 related,All,Orkney
-856,2020-01-13,0,COVID-19 related,All,Orkney
-943,2020-01-20,0,COVID-19 related,All,Orkney
-976,2020-02-03,0,COVID-19 related,All,Orkney
-1075,2020-01-27,0,COVID-19 related,All,Orkney
-1104,2020-04-13,0,COVID-19 related,All,Orkney
-1378,2020-03-02,0,COVID-19 related,All,Orkney
-1468,2020-03-09,6,All causes,All,Orkney
-1494,2020-03-30,9,All causes,All,Orkney
-1527,2020-03-16,7,All causes,All,Orkney
-1579,2020-02-24,4,All causes,All,Orkney
-1643,2020-03-02,5,All causes,All,Orkney
-1663,2020-04-06,11,All causes,All,Orkney
-1746,2020-02-10,3,All causes,All,Orkney
-1766,2020-03-23,8,All causes,All,Orkney
-1840,2020-02-17,1,All causes,All,Orkney
-1850,2020-02-03,5,All causes,All,Orkney
-2112,2020-04-13,4,All causes,All,Orkney
-2413,2020-01-13,2,All causes,All,Orkney
-2508,2020-01-20,4,All causes,All,Orkney
-2553,2019-12-30,1,All causes,All,Orkney
-2587,2020-01-06,5,All causes,All,Orkney
-2623,2020-01-27,2,All causes,All,Orkney
+1874,2020-03-30,0,COVID-19 related,All,Orkney
+1875,2020-04-06,2,COVID-19 related,All,Orkney
+1876,2020-04-13,0,COVID-19 related,All,Orkney
+1877,2020-03-09,6,All,All,Orkney
+1878,2020-04-20,6,All,All,Orkney
+1879,2020-04-06,11,All,All,Orkney
+1880,2020-04-13,4,All,All,Orkney
+1881,2020-02-17,1,All,All,Orkney
+1882,2020-02-24,4,All,All,Orkney
+1883,2020-03-23,8,All,All,Orkney
+1884,2020-01-20,4,All,All,Orkney
+1885,2020-02-03,5,All,All,Orkney
+1886,2020-03-02,5,All,All,Orkney
+1890,2020-03-30,9,All,All,Orkney
+1893,2020-04-20,0,COVID-19 related,All,Orkney
+1895,2020-03-16,7,All,All,Orkney
+1896,2020-02-10,3,All,All,Orkney
+1897,2019-12-30,1,All,All,Orkney
+1898,2020-01-27,2,All,All,Orkney
+1899,2020-01-13,2,All,All,Orkney
+1902,2020-01-06,5,All,All,Orkney
+1903,2020-03-16,0,COVID-19 related,All,Orkney
+1904,2020-03-23,0,COVID-19 related,All,Orkney
