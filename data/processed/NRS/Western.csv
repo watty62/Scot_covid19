@@ -1,24 +1,26 @@
 ,DateCode,Number,Cause,Location,Name
-666,2020-01-27,10,All,All,Western Isles
-687,2020-02-03,11,All,All,Western Isles
-694,2020-01-20,10,All,All,Western Isles
-697,2020-02-10,3,All,All,Western Isles
-774,2020-01-13,10,All,All,Western Isles
-777,2020-01-06,8,All,All,Western Isles
-811,2019-12-30,9,All,All,Western Isles
-1213,2020-03-30,6,All,All,Western Isles
-1248,2020-03-23,5,All,All,Western Isles
-1283,2020-04-20,10,All,All,Western Isles
-1298,2020-02-24,10,All,All,Western Isles
-1302,2020-03-09,11,All,All,Western Isles
-1309,2020-03-02,6,All,All,Western Isles
-1338,2020-04-13,8,All,All,Western Isles
-1347,2020-04-06,8,All,All,Western Isles
-1462,2020-03-16,5,All,All,Western Isles
-1490,2020-02-17,8,All,All,Western Isles
-1834,2020-04-13,0,COVID-19 related,All,Western Isles
-1902,2020-04-20,0,COVID-19 related,All,Western Isles
-2073,2020-04-06,0,COVID-19 related,All,Western Isles
-2114,2020-03-16,0,COVID-19 related,All,Western Isles
-2154,2020-03-23,0,COVID-19 related,All,Western Isles
-2179,2020-03-30,0,COVID-19 related,All,Western Isles
+170,2020-04-13,0.0,COVID-19 related,All,Western Isles
+216,2020-04-27,0.0,COVID-19 related,All,Western Isles
+267,2020-03-30,0.0,COVID-19 related,All,Western Isles
+406,2020-04-20,0.0,COVID-19 related,All,Western Isles
+526,2020-03-16,0.0,COVID-19 related,All,Western Isles
+731,2020-04-06,0.0,COVID-19 related,All,Western Isles
+769,2020-03-23,0.0,COVID-19 related,All,Western Isles
+832,2020-03-16,5.0,All causes,All,Western Isles
+878,2020-03-23,5.0,All causes,All,Western Isles
+957,2019-12-30,9.0,All causes,All,Western Isles
+999,2020-01-06,8.0,All causes,All,Western Isles
+1021,2020-01-13,10.0,All causes,All,Western Isles
+1074,2020-03-02,6.0,All causes,All,Western Isles
+1112,2020-03-09,11.0,All causes,All,Western Isles
+1177,2020-04-06,8.0,All causes,All,Western Isles
+1273,2020-03-30,6.0,All causes,All,Western Isles
+1297,2020-02-17,8.0,All causes,All,Western Isles
+1343,2020-02-24,10.0,All causes,All,Western Isles
+2024,2020-02-03,11.0,All causes,All,Western Isles
+2052,2020-02-10,3.0,All causes,All,Western Isles
+2084,2020-01-27,10.0,All causes,All,Western Isles
+2104,2020-01-20,10.0,All causes,All,Western Isles
+2286,2020-04-13,8.0,All causes,All,Western Isles
+2291,2020-04-20,10.0,All causes,All,Western Isles
+2314,2020-04-27,5.0,All causes,All,Western Isles

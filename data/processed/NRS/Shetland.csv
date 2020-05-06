@@ -1,24 +1,26 @@
 ,DateCode,Number,Cause,Location,Name
-649,2020-01-20,2,All,All,Shetland
-680,2020-02-17,4,All,All,Shetland
-685,2020-02-03,6,All,All,Shetland
-700,2020-02-10,4,All,All,Shetland
-739,2020-01-27,5,All,All,Shetland
-757,2020-01-06,4,All,All,Shetland
-810,2019-12-30,5,All,All,Shetland
-847,2020-01-13,2,All,All,Shetland
-1212,2020-03-30,8,All,All,Shetland
-1265,2020-03-23,9,All,All,Shetland
-1282,2020-04-20,2,All,All,Shetland
-1290,2020-02-24,3,All,All,Shetland
-1340,2020-04-13,3,All,All,Shetland
-1344,2020-04-06,8,All,All,Shetland
-1354,2020-03-02,4,All,All,Shetland
-1356,2020-03-09,3,All,All,Shetland
-1449,2020-03-16,3,All,All,Shetland
-1836,2020-04-13,1,COVID-19 related,All,Shetland
-1897,2020-04-20,0,COVID-19 related,All,Shetland
-2023,2020-03-30,1,COVID-19 related,All,Shetland
-2082,2020-04-06,4,COVID-19 related,All,Shetland
-2116,2020-03-16,0,COVID-19 related,All,Shetland
-2156,2020-03-23,0,COVID-19 related,All,Shetland
+129,2020-04-06,4.0,COVID-19 related,All,Shetland
+169,2020-04-13,1.0,COVID-19 related,All,Shetland
+214,2020-04-27,1.0,COVID-19 related,All,Shetland
+275,2020-03-30,1.0,COVID-19 related,All,Shetland
+405,2020-04-20,0.0,COVID-19 related,All,Shetland
+532,2020-03-16,0.0,COVID-19 related,All,Shetland
+763,2020-03-23,0.0,COVID-19 related,All,Shetland
+783,2020-03-30,8.0,All causes,All,Shetland
+864,2020-03-16,3.0,All causes,All,Shetland
+879,2020-03-23,9.0,All causes,All,Shetland
+930,2020-02-03,6.0,All causes,All,Shetland
+950,2019-12-30,5.0,All causes,All,Shetland
+1022,2020-01-13,2.0,All causes,All,Shetland
+1035,2020-01-06,4.0,All causes,All,Shetland
+1084,2020-03-02,4.0,All causes,All,Shetland
+1126,2020-03-09,3.0,All causes,All,Shetland
+1185,2020-04-06,8.0,All causes,All,Shetland
+1289,2020-02-17,4.0,All causes,All,Shetland
+1336,2020-02-24,3.0,All causes,All,Shetland
+2040,2020-02-10,4.0,All causes,All,Shetland
+2074,2020-01-27,5.0,All causes,All,Shetland
+2113,2020-01-20,2.0,All causes,All,Shetland
+2276,2020-04-13,3.0,All causes,All,Shetland
+2289,2020-04-20,2.0,All causes,All,Shetland
+2356,2020-04-27,6.0,All causes,All,Shetland

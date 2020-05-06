@@ -1,24 +1,26 @@
 ,DateCode,Number,Cause,Location,Name
-669,2020-01-27,99,All,All,Tayside
-688,2020-02-03,97,All,All,Tayside
-689,2020-02-10,99,All,All,Tayside
-695,2020-01-20,107,All,All,Tayside
-761,2020-01-06,156,All,All,Tayside
-813,2019-12-30,96,All,All,Tayside
-850,2020-01-13,118,All,All,Tayside
-1228,2020-03-30,126,All,All,Tayside
-1249,2020-03-23,96,All,All,Tayside
-1284,2020-04-20,152,All,All,Tayside
-1305,2020-02-24,96,All,All,Tayside
-1333,2020-04-06,167,All,All,Tayside
-1342,2020-04-13,171,All,All,Tayside
-1352,2020-03-02,86,All,All,Tayside
-1355,2020-03-09,94,All,All,Tayside
-1459,2020-03-16,92,All,All,Tayside
-1509,2020-02-17,98,All,All,Tayside
-1839,2020-04-13,51,COVID-19 related,All,Tayside
-1912,2020-04-20,59,COVID-19 related,All,Tayside
-2002,2020-04-06,38,COVID-19 related,All,Tayside
-2111,2020-03-16,0,COVID-19 related,All,Tayside
-2159,2020-03-23,3,COVID-19 related,All,Tayside
-2178,2020-03-30,14,COVID-19 related,All,Tayside
+167,2020-04-13,51.0,COVID-19 related,All,Tayside
+223,2020-04-27,34.0,COVID-19 related,All,Tayside
+280,2020-03-30,14.0,COVID-19 related,All,Tayside
+412,2020-04-20,59.0,COVID-19 related,All,Tayside
+529,2020-03-16,0.0,COVID-19 related,All,Tayside
+684,2020-03-23,3.0,COVID-19 related,All,Tayside
+730,2020-04-06,38.0,COVID-19 related,All,Tayside
+825,2020-03-16,92.0,All causes,All,Tayside
+835,2020-03-23,96.0,All causes,All,Tayside
+915,2020-01-13,118.0,All causes,All,Tayside
+928,2020-02-03,97.0,All causes,All,Tayside
+948,2019-12-30,96.0,All causes,All,Tayside
+1033,2020-01-06,156.0,All causes,All,Tayside
+1087,2020-03-02,86.0,All causes,All,Tayside
+1123,2020-03-09,94.0,All causes,All,Tayside
+1178,2020-04-06,167.0,All causes,All,Tayside
+1219,2020-03-30,126.0,All causes,All,Tayside
+1304,2020-02-17,98.0,All causes,All,Tayside
+1340,2020-02-24,96.0,All causes,All,Tayside
+2043,2020-02-10,99.0,All causes,All,Tayside
+2071,2020-01-27,99.0,All causes,All,Tayside
+2110,2020-01-20,107.0,All causes,All,Tayside
+2273,2020-04-13,171.0,All causes,All,Tayside
+2296,2020-04-20,152.0,All causes,All,Tayside
+2308,2020-04-27,140.0,All causes,All,Tayside
