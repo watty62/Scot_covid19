@@ -1,24 +1,24 @@
 ,DateCode,Number,Cause,Location,Name
-1677,2020-03-16,36,All,All,Borders
-1679,2020-01-13,38,All,All,Borders
-1680,2020-04-06,15,COVID-19 related,All,Borders
-1682,2019-12-30,20,All,All,Borders
-1683,2020-03-16,0,COVID-19 related,All,Borders
-1684,2020-01-06,41,All,All,Borders
-1685,2020-02-10,25,All,All,Borders
-1688,2020-04-06,37,All,All,Borders
-1691,2020-03-09,29,All,All,Borders
-1692,2020-02-17,23,All,All,Borders
-1693,2020-04-13,7,COVID-19 related,All,Borders
-1694,2020-02-24,35,All,All,Borders
-1695,2020-03-30,42,All,All,Borders
-1696,2020-01-20,29,All,All,Borders
-1697,2020-02-03,24,All,All,Borders
-1698,2020-03-30,13,COVID-19 related,All,Borders
-1699,2020-01-27,27,All,All,Borders
-1700,2020-03-02,32,All,All,Borders
-1702,2020-04-20,30,All,All,Borders
-1703,2020-03-23,3,COVID-19 related,All,Borders
-1705,2020-04-13,31,All,All,Borders
-1706,2020-04-20,3,COVID-19 related,All,Borders
-1707,2020-03-23,23,All,All,Borders
+650,2020-01-20,29,All,All,Borders
+658,2020-01-27,27,All,All,Borders
+673,2020-02-03,24,All,All,Borders
+676,2020-02-17,23,All,All,Borders
+780,2020-01-06,41,All,All,Borders
+834,2019-12-30,20,All,All,Borders
+835,2020-02-10,25,All,All,Borders
+849,2020-01-13,38,All,All,Borders
+1232,2020-03-30,42,All,All,Borders
+1244,2020-04-06,37,All,All,Borders
+1259,2020-04-20,30,All,All,Borders
+1291,2020-03-02,32,All,All,Borders
+1303,2020-03-09,29,All,All,Borders
+1334,2020-04-13,31,All,All,Borders
+1359,2020-02-24,35,All,All,Borders
+1461,2020-03-16,36,All,All,Borders
+1492,2020-03-23,23,All,All,Borders
+1803,2020-04-13,7,COVID-19 related,All,Borders
+1914,2020-04-20,3,COVID-19 related,All,Borders
+2089,2020-04-06,15,COVID-19 related,All,Borders
+2130,2020-03-16,0,COVID-19 related,All,Borders
+2166,2020-03-23,3,COVID-19 related,All,Borders
+2194,2020-03-30,13,COVID-19 related,All,Borders

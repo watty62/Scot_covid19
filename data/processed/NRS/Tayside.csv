@@ -1,24 +1,24 @@
 ,DateCode,Number,Cause,Location,Name
-2071,2020-02-17,98,All,All,Tayside
-2072,2020-02-10,99,All,All,Tayside
-2074,2020-03-23,96,All,All,Tayside
-2076,2020-02-03,97,All,All,Tayside
-2078,2020-04-06,167,All,All,Tayside
-2079,2020-03-16,92,All,All,Tayside
-2080,2020-04-20,152,All,All,Tayside
-2081,2020-02-24,96,All,All,Tayside
-2082,2020-03-30,126,All,All,Tayside
-2083,2020-04-13,51,COVID-19 related,All,Tayside
-2084,2020-03-16,0,COVID-19 related,All,Tayside
-2085,2019-12-30,96,All,All,Tayside
-2086,2020-04-20,59,COVID-19 related,All,Tayside
-2089,2020-03-30,14,COVID-19 related,All,Tayside
-2090,2020-01-20,107,All,All,Tayside
-2092,2020-01-06,156,All,All,Tayside
-2096,2020-01-13,118,All,All,Tayside
-2097,2020-01-27,99,All,All,Tayside
-2098,2020-03-23,3,COVID-19 related,All,Tayside
-2099,2020-03-02,86,All,All,Tayside
-2100,2020-04-13,171,All,All,Tayside
-2101,2020-04-06,38,COVID-19 related,All,Tayside
-2103,2020-03-09,94,All,All,Tayside
+669,2020-01-27,99,All,All,Tayside
+688,2020-02-03,97,All,All,Tayside
+689,2020-02-10,99,All,All,Tayside
+695,2020-01-20,107,All,All,Tayside
+761,2020-01-06,156,All,All,Tayside
+813,2019-12-30,96,All,All,Tayside
+850,2020-01-13,118,All,All,Tayside
+1228,2020-03-30,126,All,All,Tayside
+1249,2020-03-23,96,All,All,Tayside
+1284,2020-04-20,152,All,All,Tayside
+1305,2020-02-24,96,All,All,Tayside
+1333,2020-04-06,167,All,All,Tayside
+1342,2020-04-13,171,All,All,Tayside
+1352,2020-03-02,86,All,All,Tayside
+1355,2020-03-09,94,All,All,Tayside
+1459,2020-03-16,92,All,All,Tayside
+1509,2020-02-17,98,All,All,Tayside
+1839,2020-04-13,51,COVID-19 related,All,Tayside
+1912,2020-04-20,59,COVID-19 related,All,Tayside
+2002,2020-04-06,38,COVID-19 related,All,Tayside
+2111,2020-03-16,0,COVID-19 related,All,Tayside
+2159,2020-03-23,3,COVID-19 related,All,Tayside
+2178,2020-03-30,14,COVID-19 related,All,Tayside

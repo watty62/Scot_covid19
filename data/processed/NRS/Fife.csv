@@ -1,24 +1,24 @@
 ,DateCode,Number,Cause,Location,Name
-2038,2020-01-20,96,All,All,Fife
-2043,2020-03-23,98,All,All,Fife
-2045,2020-03-30,9,COVID-19 related,All,Fife
-2046,2019-12-30,70,All,All,Fife
-2049,2020-01-06,96,All,All,Fife
-2050,2020-03-30,82,All,All,Fife
-2051,2020-03-16,70,All,All,Fife
-2052,2020-04-20,33,COVID-19 related,All,Fife
-2053,2020-02-24,79,All,All,Fife
-2054,2020-03-02,79,All,All,Fife
-2056,2020-03-16,2,COVID-19 related,All,Fife
-2057,2020-02-17,88,All,All,Fife
-2058,2020-01-13,96,All,All,Fife
-2059,2020-04-20,102,All,All,Fife
-2060,2020-04-13,113,All,All,Fife
-2061,2020-01-27,79,All,All,Fife
-2062,2020-04-13,39,COVID-19 related,All,Fife
-2063,2020-04-06,31,COVID-19 related,All,Fife
-2064,2020-03-09,80,All,All,Fife
-2066,2020-03-23,4,COVID-19 related,All,Fife
-2067,2020-04-06,109,All,All,Fife
-2069,2020-02-03,81,All,All,Fife
-2070,2020-02-10,80,All,All,Fife
+657,2020-01-20,96,All,All,Fife
+667,2020-01-27,79,All,All,Fife
+677,2020-02-03,81,All,All,Fife
+701,2020-02-10,80,All,All,Fife
+775,2020-01-13,96,All,All,Fife
+778,2020-01-06,96,All,All,Fife
+812,2019-12-30,70,All,All,Fife
+1214,2020-03-30,82,All,All,Fife
+1243,2020-03-23,98,All,All,Fife
+1257,2020-04-20,102,All,All,Fife
+1304,2020-02-24,79,All,All,Fife
+1320,2020-03-02,79,All,All,Fife
+1343,2020-04-06,109,All,All,Fife
+1346,2020-04-13,113,All,All,Fife
+1353,2020-03-09,80,All,All,Fife
+1460,2020-03-16,70,All,All,Fife
+1506,2020-02-17,88,All,All,Fife
+1841,2020-04-13,39,COVID-19 related,All,Fife
+1917,2020-04-20,33,COVID-19 related,All,Fife
+2087,2020-04-06,31,COVID-19 related,All,Fife
+2118,2020-03-16,2,COVID-19 related,All,Fife
+2164,2020-03-23,4,COVID-19 related,All,Fife
+2197,2020-03-30,9,COVID-19 related,All,Fife

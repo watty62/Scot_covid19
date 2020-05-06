@@ -1,41 +1,41 @@
-,DateCode,Number,Cause,Name
-149,2020-04-20,1830,All,All Scotland
-152,2020-04-13,1916,All,All Scotland
-189,2020-03-30,1744,All,All Scotland
-190,2020-04-06,1978,All,All Scotland
-191,2020-02-17,1162,All,All Scotland
-192,2020-02-24,1171,All,All Scotland
-193,2020-03-23,1079,All,All Scotland
-194,2020-01-06,1567,All,All Scotland
-195,2020-03-16,1196,All,All Scotland
-200,2020-03-02,1207,All,All Scotland
-201,2020-03-09,1156,All,All Scotland
-205,2020-01-27,1188,All,All Scotland
-211,2019-12-30,1161,All,All Scotland
-212,2020-01-13,1322,All,All Scotland
-213,2020-02-10,1162,All,All Scotland
-214,2020-01-20,1226,All,All Scotland
-215,2020-02-03,1216,All,All Scotland
-1746,2020-04-20,656,COVID-19 related,All Scotland
-1980,2020-04-13,652,COVID-19 related,All Scotland
-2117,2020-04-06,610,COVID-19 related,All Scotland
-2165,2020-03-16,10,COVID-19 related,All Scotland
-2176,2020-03-23,62,COVID-19 related,All Scotland
-2216,2020-03-30,282,COVID-19 related,All Scotland
-2218,2020-04-20,1087,All causes - average of corresponding week over previous 5 years,All Scotland
-2219,2020-03-16,1120,All causes - average of corresponding week over previous 5 years,All Scotland
-2221,2020-03-30,1098,All causes - average of corresponding week over previous 5 years,All Scotland
-2222,2020-03-02,1229,All causes - average of corresponding week over previous 5 years,All Scotland
-2223,2020-04-06,1100,All causes - average of corresponding week over previous 5 years,All Scotland
-2224,2019-12-30,1276,All causes - average of corresponding week over previous 5 years,All Scotland
-2225,2020-01-06,1560,All causes - average of corresponding week over previous 5 years,All Scotland
-2226,2020-01-13,1382,All causes - average of corresponding week over previous 5 years,All Scotland
-2227,2020-01-20,1317,All causes - average of corresponding week over previous 5 years,All Scotland
-2228,2020-02-17,1247,All causes - average of corresponding week over previous 5 years,All Scotland
-2229,2020-01-27,1280,All causes - average of corresponding week over previous 5 years,All Scotland
-2230,2020-04-13,1067,All causes - average of corresponding week over previous 5 years,All Scotland
-2231,2020-02-10,1259,All causes - average of corresponding week over previous 5 years,All Scotland
-2232,2020-03-23,1118,All causes - average of corresponding week over previous 5 years,All Scotland
-2233,2020-02-24,1165,All causes - average of corresponding week over previous 5 years,All Scotland
-2234,2020-02-03,1254,All causes - average of corresponding week over previous 5 years,All Scotland
-2235,2020-03-09,1169,All causes - average of corresponding week over previous 5 years,All Scotland
+,DateCode,Number,Cause
+149,2020-04-20,1830,All
+152,2020-04-13,1916,All
+189,2020-03-30,1744,All
+190,2020-04-06,1978,All
+191,2020-02-17,1162,All
+192,2020-02-24,1171,All
+193,2020-03-23,1079,All
+194,2020-01-06,1567,All
+195,2020-03-16,1196,All
+200,2020-03-02,1207,All
+201,2020-03-09,1156,All
+205,2020-01-27,1188,All
+211,2019-12-30,1161,All
+212,2020-01-13,1322,All
+213,2020-02-10,1162,All
+214,2020-01-20,1226,All
+215,2020-02-03,1216,All
+1746,2020-04-20,656,COVID-19 related
+1980,2020-04-13,652,COVID-19 related
+2117,2020-04-06,610,COVID-19 related
+2165,2020-03-16,10,COVID-19 related
+2176,2020-03-23,62,COVID-19 related
+2216,2020-03-30,282,COVID-19 related
+2218,2020-04-20,1087,Five Year Avg
+2219,2020-03-16,1120,Five Year Avg
+2221,2020-03-30,1098,Five Year Avg
+2222,2020-03-02,1229,Five Year Avg
+2223,2020-04-06,1100,Five Year Avg
+2224,2019-12-30,1276,Five Year Avg
+2225,2020-01-06,1560,Five Year Avg
+2226,2020-01-13,1382,Five Year Avg
+2227,2020-01-20,1317,Five Year Avg
+2228,2020-02-17,1247,Five Year Avg
+2229,2020-01-27,1280,Five Year Avg
+2230,2020-04-13,1067,Five Year Avg
+2231,2020-02-10,1259,Five Year Avg
+2232,2020-03-23,1118,Five Year Avg
+2233,2020-02-24,1165,Five Year Avg
+2234,2020-02-03,1254,Five Year Avg
+2235,2020-03-09,1169,Five Year Avg
