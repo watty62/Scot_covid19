@@ -1,26 +1,28 @@
 ,DateCode,Number,Cause,Location,Name
-59,2020-04-13,51.0,COVID-19 related,All,Ayrshire and Arran
-189,2020-04-06,40.0,COVID-19 related,All,Ayrshire and Arran
-245,2020-04-27,35.0,COVID-19 related,All,Ayrshire and Arran
-290,2020-03-30,17.0,COVID-19 related,All,Ayrshire and Arran
-394,2020-04-20,39.0,COVID-19 related,All,Ayrshire and Arran
-495,2020-03-16,1.0,COVID-19 related,All,Ayrshire and Arran
-682,2020-03-23,9.0,COVID-19 related,All,Ayrshire and Arran
-794,2020-03-30,121.0,All causes,All,Ayrshire and Arran
-830,2020-03-09,109.0,All causes,All,Ayrshire and Arran
-881,2020-03-16,101.0,All causes,All,Ayrshire and Arran
-891,2019-12-30,105.0,All causes,All,Ayrshire and Arran
-909,2020-04-06,131.0,All causes,All,Ayrshire and Arran
-942,2020-02-03,88.0,All causes,All,Ayrshire and Arran
-997,2020-01-06,121.0,All causes,All,Ayrshire and Arran
-1030,2020-01-13,114.0,All causes,All,Ayrshire and Arran
-1054,2020-02-24,99.0,All causes,All,Ayrshire and Arran
-1251,2020-03-23,108.0,All causes,All,Ayrshire and Arran
-1317,2020-03-02,105.0,All causes,All,Ayrshire and Arran
-1345,2020-02-17,105.0,All causes,All,Ayrshire and Arran
-1952,2020-04-13,158.0,All causes,All,Ayrshire and Arran
-2010,2020-01-20,103.0,All causes,All,Ayrshire and Arran
-2046,2020-02-10,76.0,All causes,All,Ayrshire and Arran
-2057,2020-01-27,96.0,All causes,All,Ayrshire and Arran
-2294,2020-04-20,139.0,All causes,All,Ayrshire and Arran
-2313,2020-04-27,121.0,All causes,All,Ayrshire and Arran
+10,2020-03-30,121.0,All,All,Ayrshire and Arran
+25,2020-03-16,101.0,All,All,Ayrshire and Arran
+28,2020-03-02,105.0,All,All,Ayrshire and Arran
+33,2020-02-24,99.0,All,All,Ayrshire and Arran
+40,2020-04-27,122.0,All,All,Ayrshire and Arran
+44,2020-03-23,108.0,All,All,Ayrshire and Arran
+169,2020-03-09,109.0,All,All,Ayrshire and Arran
+388,2020-05-04,100.0,All,All,Ayrshire and Arran
+469,2020-02-10,76.0,All,All,Ayrshire and Arran
+502,2020-02-17,105.0,All,All,Ayrshire and Arran
+534,2020-02-03,88.0,All,All,Ayrshire and Arran
+543,2020-01-27,96.0,All,All,Ayrshire and Arran
+618,2020-01-20,103.0,All,All,Ayrshire and Arran
+713,2020-04-20,139.0,All,All,Ayrshire and Arran
+737,2020-01-13,114.0,All,All,Ayrshire and Arran
+763,2019-12-30,105.0,All,All,Ayrshire and Arran
+797,2020-04-06,131.0,All,All,Ayrshire and Arran
+812,2020-04-13,158.0,All,All,Ayrshire and Arran
+817,2020-01-06,121.0,All,All,Ayrshire and Arran
+1837,2020-04-27,35.0,COVID-19 related,All,Ayrshire and Arran
+1927,2020-04-20,39.0,COVID-19 related,All,Ayrshire and Arran
+1953,2020-05-04,28.0,COVID-19 related,All,Ayrshire and Arran
+2240,2020-03-16,1.0,COVID-19 related,All,Ayrshire and Arran
+2261,2020-03-23,9.0,COVID-19 related,All,Ayrshire and Arran
+2313,2020-04-06,40.0,COVID-19 related,All,Ayrshire and Arran
+2335,2020-03-30,17.0,COVID-19 related,All,Ayrshire and Arran
+2421,2020-04-13,51.0,COVID-19 related,All,Ayrshire and Arran

@@ -1,26 +1,28 @@
 ,DateCode,Number,Cause,Location,Name
-121,2020-04-06,13.0,COVID-19 related,All,Highland
-201,2020-04-13,21.0,COVID-19 related,All,Highland
-215,2020-04-27,16.0,COVID-19 related,All,Highland
-289,2020-03-30,11.0,COVID-19 related,All,Highland
-402,2020-04-20,22.0,COVID-19 related,All,Highland
-535,2020-03-16,0.0,COVID-19 related,All,Highland
-759,2020-03-23,5.0,COVID-19 related,All,Highland
-780,2020-03-30,102.0,All causes,All,Highland
-883,2020-03-16,72.0,All causes,All,Highland
-934,2020-02-03,69.0,All causes,All,Highland
-935,2019-12-30,75.0,All causes,All,Highland
-979,2020-01-06,95.0,All causes,All,Highland
-1026,2020-01-13,94.0,All causes,All,Highland
-1071,2020-03-02,70.0,All causes,All,Highland
-1109,2020-03-09,77.0,All causes,All,Highland
-1120,2020-04-06,100.0,All causes,All,Highland
-1230,2020-02-24,78.0,All causes,All,Highland
-1283,2020-03-23,70.0,All causes,All,Highland
-1347,2020-02-17,66.0,All causes,All,Highland
-1960,2020-04-13,107.0,All causes,All,Highland
-2008,2020-01-20,77.0,All causes,All,Highland
-2054,2020-02-10,68.0,All causes,All,Highland
-2064,2020-01-27,82.0,All causes,All,Highland
-2253,2020-04-20,94.0,All causes,All,Highland
-2357,2020-04-27,78.0,All causes,All,Highland
+50,2020-03-23,70.0,All,All,Highland
+79,2020-03-16,72.0,All,All,Highland
+175,2020-02-24,78.0,All,All,Highland
+361,2020-05-04,83.0,All,All,Highland
+365,2020-04-27,78.0,All,All,Highland
+434,2020-01-20,77.0,All,All,Highland
+477,2020-02-03,69.0,All,All,Highland
+480,2020-02-10,68.0,All,All,Highland
+519,2020-02-17,66.0,All,All,Highland
+525,2020-01-27,82.0,All,All,Highland
+682,2020-03-09,77.0,All,All,Highland
+687,2020-03-02,70.0,All,All,Highland
+718,2020-04-20,94.0,All,All,Highland
+728,2020-01-13,94.0,All,All,Highland
+742,2019-12-30,75.0,All,All,Highland
+788,2020-03-30,102.0,All,All,Highland
+813,2020-01-06,95.0,All,All,Highland
+821,2020-04-13,107.0,All,All,Highland
+826,2020-04-06,100.0,All,All,Highland
+1807,2020-04-27,16.0,COVID-19 related,All,Highland
+1915,2020-05-04,9.0,COVID-19 related,All,Highland
+1926,2020-04-20,22.0,COVID-19 related,All,Highland
+2180,2020-03-16,0.0,COVID-19 related,All,Highland
+2197,2020-04-06,13.0,COVID-19 related,All,Highland
+2289,2020-03-23,5.0,COVID-19 related,All,Highland
+2331,2020-03-30,11.0,COVID-19 related,All,Highland
+2356,2020-04-13,21.0,COVID-19 related,All,Highland

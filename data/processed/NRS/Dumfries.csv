@@ -1,26 +1,28 @@
 ,DateCode,Number,Cause,Location,Name
-79,2020-04-13,10.0,COVID-19 related,All,Dumfries and Galloway
-197,2020-04-06,9.0,COVID-19 related,All,Dumfries and Galloway
-265,2020-04-27,6.0,COVID-19 related,All,Dumfries and Galloway
-271,2020-03-30,12.0,COVID-19 related,All,Dumfries and Galloway
-395,2020-04-20,3.0,COVID-19 related,All,Dumfries and Galloway
-496,2020-03-16,0.0,COVID-19 related,All,Dumfries and Galloway
-735,2020-03-23,0.0,COVID-19 related,All,Dumfries and Galloway
-778,2020-03-30,73.0,All causes,All,Dumfries and Galloway
-853,2020-03-09,36.0,All causes,All,Dumfries and Galloway
-887,2020-03-16,41.0,All causes,All,Dumfries and Galloway
-908,2020-04-06,53.0,All causes,All,Dumfries and Galloway
-946,2020-02-03,44.0,All causes,All,Dumfries and Galloway
-966,2019-12-30,37.0,All causes,All,Dumfries and Galloway
-993,2020-01-06,58.0,All causes,All,Dumfries and Galloway
-1043,2020-01-13,42.0,All causes,All,Dumfries and Galloway
-1234,2020-02-24,37.0,All causes,All,Dumfries and Galloway
-1269,2020-03-23,28.0,All causes,All,Dumfries and Galloway
-1296,2020-02-17,39.0,All causes,All,Dumfries and Galloway
-1310,2020-03-02,40.0,All causes,All,Dumfries and Galloway
-1954,2020-04-13,42.0,All causes,All,Dumfries and Galloway
-2001,2020-02-10,43.0,All causes,All,Dumfries and Galloway
-2020,2020-01-20,42.0,All causes,All,Dumfries and Galloway
-2109,2020-01-27,43.0,All causes,All,Dumfries and Galloway
-2293,2020-04-20,43.0,All causes,All,Dumfries and Galloway
-2319,2020-04-27,45.0,All causes,All,Dumfries and Galloway
+11,2020-04-27,45.0,All,All,Dumfries and Galloway
+26,2020-03-02,40.0,All,All,Dumfries and Galloway
+38,2020-02-24,37.0,All,All,Dumfries and Galloway
+47,2020-03-23,28.0,All,All,Dumfries and Galloway
+78,2020-03-16,41.0,All,All,Dumfries and Galloway
+385,2020-05-04,35.0,All,All,Dumfries and Galloway
+472,2020-02-10,43.0,All,All,Dumfries and Galloway
+496,2020-02-17,39.0,All,All,Dumfries and Galloway
+533,2020-02-03,44.0,All,All,Dumfries and Galloway
+545,2020-01-27,43.0,All,All,Dumfries and Galloway
+620,2020-01-20,42.0,All,All,Dumfries and Galloway
+676,2020-03-09,36.0,All,All,Dumfries and Galloway
+712,2020-04-20,43.0,All,All,Dumfries and Galloway
+732,2020-01-13,42.0,All,All,Dumfries and Galloway
+741,2019-12-30,37.0,All,All,Dumfries and Galloway
+745,2020-01-06,58.0,All,All,Dumfries and Galloway
+791,2020-03-30,73.0,All,All,Dumfries and Galloway
+793,2020-04-06,53.0,All,All,Dumfries and Galloway
+820,2020-04-13,42.0,All,All,Dumfries and Galloway
+1845,2020-04-27,6.0,COVID-19 related,All,Dumfries and Galloway
+1918,2020-04-20,3.0,COVID-19 related,All,Dumfries and Galloway
+1960,2020-05-04,6.0,COVID-19 related,All,Dumfries and Galloway
+2184,2020-03-16,0.0,COVID-19 related,All,Dumfries and Galloway
+2294,2020-03-23,0.0,COVID-19 related,All,Dumfries and Galloway
+2311,2020-04-06,9.0,COVID-19 related,All,Dumfries and Galloway
+2334,2020-03-30,12.0,COVID-19 related,All,Dumfries and Galloway
+2362,2020-04-13,10.0,COVID-19 related,All,Dumfries and Galloway
