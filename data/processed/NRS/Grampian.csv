@@ -1,28 +1,30 @@
 ,DateCode,Number,Cause,Location,Name
-41,2020-03-23,112.0,All,All,Grampian
-100,2020-03-16,132.0,All,All,Grampian
-170,2020-02-24,111.0,All,All,Grampian
-362,2020-05-04,128.0,All,All,Grampian
-370,2020-04-27,139.0,All,All,Grampian
-479,2020-02-10,119.0,All,All,Grampian
-517,2020-02-17,131.0,All,All,Grampian
-539,2020-02-03,131.0,All,All,Grampian
-544,2020-01-27,109.0,All,All,Grampian
-619,2020-01-20,117.0,All,All,Grampian
-679,2020-03-09,128.0,All,All,Grampian
-684,2020-03-02,106.0,All,All,Grampian
-704,2020-04-20,147.0,All,All,Grampian
-747,2019-12-30,113.0,All,All,Grampian
-750,2020-01-13,122.0,All,All,Grampian
-781,2020-03-30,141.0,All,All,Grampian
-798,2020-04-06,158.0,All,All,Grampian
-814,2020-01-06,148.0,All,All,Grampian
-823,2020-04-13,169.0,All,All,Grampian
-1808,2020-04-27,30.0,COVID-19 related,All,Grampian
-1914,2020-05-04,28.0,COVID-19 related,All,Grampian
-1925,2020-04-20,40.0,COVID-19 related,All,Grampian
-2187,2020-03-16,2.0,COVID-19 related,All,Grampian
-2196,2020-04-06,35.0,COVID-19 related,All,Grampian
-2296,2020-03-23,3.0,COVID-19 related,All,Grampian
-2323,2020-03-30,6.0,COVID-19 related,All,Grampian
-2361,2020-04-13,43.0,COVID-19 related,All,Grampian
+128,2020-01-20,117,All,All,Grampian
+155,2020-01-13,122,All,All,Grampian
+164,2020-02-10,119,All,All,Grampian
+187,2020-03-02,106,All,All,Grampian
+194,2020-02-17,131,All,All,Grampian
+223,2020-03-23,112,All,All,Grampian
+228,2020-03-09,128,All,All,Grampian
+240,2020-02-24,111,All,All,Grampian
+243,2020-03-16,132,All,All,Grampian
+331,2020-04-27,139,All,All,Grampian
+366,2020-05-04,128,All,All,Grampian
+436,2020-05-11,107,All,All,Grampian
+682,2020-01-06,148,All,All,Grampian
+707,2019-12-30,113,All,All,Grampian
+780,2020-04-06,158,All,All,Grampian
+781,2020-04-13,169,All,All,Grampian
+805,2020-01-27,109,All,All,Grampian
+816,2020-02-03,131,All,All,Grampian
+928,2020-03-30,141,All,All,Grampian
+970,2020-04-20,147,All,All,Grampian
+2042,2020-05-11,26,COVID-19 related,All,Grampian
+2172,2020-04-13,43,COVID-19 related,All,Grampian
+2234,2020-05-04,28,COVID-19 related,All,Grampian
+2280,2020-04-27,30,COVID-19 related,All,Grampian
+2292,2020-04-20,40,COVID-19 related,All,Grampian
+2387,2020-03-30,6,COVID-19 related,All,Grampian
+2412,2020-03-23,3,COVID-19 related,All,Grampian
+2528,2020-03-16,2,COVID-19 related,All,Grampian
+2656,2020-04-06,35,COVID-19 related,All,Grampian

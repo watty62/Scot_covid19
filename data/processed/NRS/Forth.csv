@@ -1,28 +1,30 @@
 ,DateCode,Number,Cause,Location,Name
-51,2020-03-23,74.0,All,All,Forth Valley
-89,2020-03-16,66.0,All,All,Forth Valley
-173,2020-02-24,57.0,All,All,Forth Valley
-242,2020-04-27,107.0,All,All,Forth Valley
-384,2020-05-04,104.0,All,All,Forth Valley
-474,2020-02-10,73.0,All,All,Forth Valley
-505,2020-02-17,65.0,All,All,Forth Valley
-535,2020-01-27,67.0,All,All,Forth Valley
-537,2020-02-03,55.0,All,All,Forth Valley
-623,2020-01-20,78.0,All,All,Forth Valley
-662,2020-04-06,110.0,All,All,Forth Valley
-678,2020-03-09,55.0,All,All,Forth Valley
-688,2020-03-02,75.0,All,All,Forth Valley
-705,2020-04-20,97.0,All,All,Forth Valley
-744,2019-12-30,76.0,All,All,Forth Valley
-746,2020-01-06,92.0,All,All,Forth Valley
-748,2020-01-13,68.0,All,All,Forth Valley
-785,2020-03-30,96.0,All,All,Forth Valley
-824,2020-04-13,85.0,All,All,Forth Valley
-1846,2020-04-27,32.0,COVID-19 related,All,Forth Valley
-1916,2020-04-20,34.0,COVID-19 related,All,Forth Valley
-1961,2020-05-04,31.0,COVID-19 related,All,Forth Valley
-2171,2020-03-16,0.0,COVID-19 related,All,Forth Valley
-2199,2020-04-06,32.0,COVID-19 related,All,Forth Valley
-2281,2020-03-23,7.0,COVID-19 related,All,Forth Valley
-2330,2020-03-30,20.0,COVID-19 related,All,Forth Valley
-2363,2020-04-13,31.0,COVID-19 related,All,Forth Valley
+130,2020-01-20,78,All,All,Forth Valley
+135,2020-01-27,67,All,All,Forth Valley
+158,2020-01-13,68,All,All,Forth Valley
+163,2020-02-10,73,All,All,Forth Valley
+190,2020-03-02,75,All,All,Forth Valley
+197,2020-02-17,65,All,All,Forth Valley
+217,2020-03-23,74,All,All,Forth Valley
+225,2020-03-09,55,All,All,Forth Valley
+239,2020-02-24,57,All,All,Forth Valley
+244,2020-03-16,66,All,All,Forth Valley
+332,2020-04-27,107,All,All,Forth Valley
+371,2020-05-04,104,All,All,Forth Valley
+449,2020-05-11,85,All,All,Forth Valley
+687,2020-01-06,92,All,All,Forth Valley
+708,2019-12-30,76,All,All,Forth Valley
+784,2020-04-13,85,All,All,Forth Valley
+786,2020-04-06,110,All,All,Forth Valley
+815,2020-02-03,55,All,All,Forth Valley
+946,2020-03-30,96,All,All,Forth Valley
+969,2020-04-20,97,All,All,Forth Valley
+2040,2020-05-11,16,COVID-19 related,All,Forth Valley
+2171,2020-04-13,31,COVID-19 related,All,Forth Valley
+2235,2020-05-04,31,COVID-19 related,All,Forth Valley
+2273,2020-04-27,32,COVID-19 related,All,Forth Valley
+2294,2020-04-20,34,COVID-19 related,All,Forth Valley
+2413,2020-03-23,7,COVID-19 related,All,Forth Valley
+2534,2020-03-16,0,COVID-19 related,All,Forth Valley
+2614,2020-03-30,20,COVID-19 related,All,Forth Valley
+2650,2020-04-06,32,COVID-19 related,All,Forth Valley

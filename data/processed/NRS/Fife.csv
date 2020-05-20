@@ -1,28 +1,30 @@
 ,DateCode,Number,Cause,Location,Name
-12,2020-03-23,98.0,All,All,Fife
-15,2020-03-09,80.0,All,All,Fife
-46,2020-02-24,79.0,All,All,Fife
-85,2020-03-16,70.0,All,All,Fife
-359,2020-05-04,91.0,All,All,Fife
-367,2020-04-27,110.0,All,All,Fife
-431,2020-01-20,96.0,All,All,Fife
-497,2020-02-10,80.0,All,All,Fife
-499,2020-02-17,88.0,All,All,Fife
-510,2020-02-03,81.0,All,All,Fife
-607,2020-01-27,79.0,All,All,Fife
-611,2020-01-13,96.0,All,All,Fife
-654,2020-03-30,82.0,All,All,Fife
-683,2020-03-02,79.0,All,All,Fife
-708,2020-04-13,113.0,All,All,Fife
-724,2020-04-20,102.0,All,All,Fife
-752,2019-12-30,70.0,All,All,Fife
-772,2020-01-06,96.0,All,All,Fife
-807,2020-04-06,109.0,All,All,Fife
-1840,2020-04-27,25.0,COVID-19 related,All,Fife
-1909,2020-05-04,19.0,COVID-19 related,All,Fife
-2170,2020-03-16,2.0,COVID-19 related,All,Fife
-2195,2020-04-06,31.0,COVID-19 related,All,Fife
-2295,2020-03-23,4.0,COVID-19 related,All,Fife
-2332,2020-03-30,9.0,COVID-19 related,All,Fife
-2366,2020-04-13,39.0,COVID-19 related,All,Fife
-2407,2020-04-20,33.0,COVID-19 related,All,Fife
+150,2020-03-09,80,All,All,Fife
+156,2020-01-13,96,All,All,Fife
+166,2020-02-03,81,All,All,Fife
+175,2020-01-20,96,All,All,Fife
+181,2020-01-06,96,All,All,Fife
+209,2020-02-24,79,All,All,Fife
+213,2020-03-02,79,All,All,Fife
+233,2020-02-17,88,All,All,Fife
+241,2020-03-16,70,All,All,Fife
+347,2020-04-27,110,All,All,Fife
+349,2020-05-04,91,All,All,Fife
+470,2020-05-11,81,All,All,Fife
+705,2019-12-30,70,All,All,Fife
+783,2020-04-06,109,All,All,Fife
+826,2020-02-10,80,All,All,Fife
+828,2020-01-27,79,All,All,Fife
+933,2020-03-30,82,All,All,Fife
+938,2020-04-20,102,All,All,Fife
+958,2020-03-23,98,All,All,Fife
+985,2020-04-13,113,All,All,Fife
+2037,2020-05-11,15,COVID-19 related,All,Fife
+2174,2020-04-13,39,COVID-19 related,All,Fife
+2242,2020-05-04,19,COVID-19 related,All,Fife
+2286,2020-04-20,33,COVID-19 related,All,Fife
+2334,2020-04-27,25,COVID-19 related,All,Fife
+2404,2020-03-23,4,COVID-19 related,All,Fife
+2527,2020-03-16,2,COVID-19 related,All,Fife
+2611,2020-03-30,9,COVID-19 related,All,Fife
+2653,2020-04-06,31,COVID-19 related,All,Fife

@@ -1,28 +1,30 @@
 ,DateCode,Number,Cause,Location,Name
-3,2020-03-23,137.0,All,All,Lanarkshire
-9,2020-03-16,138.0,All,All,Lanarkshire
-22,2020-03-09,142.0,All,All,Lanarkshire
-34,2020-02-17,144.0,All,All,Lanarkshire
-37,2020-02-24,136.0,All,All,Lanarkshire
-319,2020-05-04,207.0,All,All,Lanarkshire
-379,2020-04-27,207.0,All,All,Lanarkshire
-430,2020-01-20,161.0,All,All,Lanarkshire
-439,2020-01-13,165.0,All,All,Lanarkshire
-504,2020-02-10,155.0,All,All,Lanarkshire
-513,2020-02-03,169.0,All,All,Lanarkshire
-605,2020-01-27,151.0,All,All,Lanarkshire
-672,2020-03-30,231.0,All,All,Lanarkshire
-680,2020-03-02,151.0,All,All,Lanarkshire
-706,2020-04-13,272.0,All,All,Lanarkshire
-727,2020-04-20,238.0,All,All,Lanarkshire
-735,2020-01-06,194.0,All,All,Lanarkshire
-808,2019-12-30,138.0,All,All,Lanarkshire
-810,2020-04-06,274.0,All,All,Lanarkshire
-1742,2020-04-06,90.0,COVID-19 related,All,Lanarkshire
-1877,2020-04-27,74.0,COVID-19 related,All,Lanarkshire
-1922,2020-04-20,83.0,COVID-19 related,All,Lanarkshire
-1970,2020-05-04,51.0,COVID-19 related,All,Lanarkshire
-2185,2020-03-16,0.0,COVID-19 related,All,Lanarkshire
-2288,2020-03-23,8.0,COVID-19 related,All,Lanarkshire
-2326,2020-03-30,40.0,COVID-19 related,All,Lanarkshire
-2355,2020-04-13,90.0,COVID-19 related,All,Lanarkshire
+127,2020-01-13,165,All,All,Lanarkshire
+132,2020-01-20,161,All,All,Lanarkshire
+146,2020-03-02,151,All,All,Lanarkshire
+153,2020-03-09,142,All,All,Lanarkshire
+171,2020-01-06,194,All,All,Lanarkshire
+203,2020-02-24,136,All,All,Lanarkshire
+230,2020-03-16,138,All,All,Lanarkshire
+236,2020-02-17,144,All,All,Lanarkshire
+268,2020-05-04,207,All,All,Lanarkshire
+360,2020-04-27,207,All,All,Lanarkshire
+490,2020-05-11,168,All,All,Lanarkshire
+694,2019-12-30,138,All,All,Lanarkshire
+775,2020-03-30,231,All,All,Lanarkshire
+809,2020-01-27,151,All,All,Lanarkshire
+823,2020-02-10,155,All,All,Lanarkshire
+824,2020-02-03,169,All,All,Lanarkshire
+947,2020-03-23,137,All,All,Lanarkshire
+951,2020-04-06,274,All,All,Lanarkshire
+964,2020-04-13,272,All,All,Lanarkshire
+978,2020-04-20,238,All,All,Lanarkshire
+2107,2020-04-13,90,COVID-19 related,All,Lanarkshire
+2145,2020-05-11,46,COVID-19 related,All,Lanarkshire
+2239,2020-05-04,51,COVID-19 related,All,Lanarkshire
+2299,2020-04-20,83,COVID-19 related,All,Lanarkshire
+2310,2020-04-27,74,COVID-19 related,All,Lanarkshire
+2347,2020-03-23,8,COVID-19 related,All,Lanarkshire
+2385,2020-03-30,40,COVID-19 related,All,Lanarkshire
+2601,2020-04-06,90,COVID-19 related,All,Lanarkshire
+2646,2020-03-16,0,COVID-19 related,All,Lanarkshire

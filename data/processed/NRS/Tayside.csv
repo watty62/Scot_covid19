@@ -1,28 +1,30 @@
 ,DateCode,Number,Cause,Location,Name
-7,2020-03-23,96.0,All,All,Tayside
-20,2020-03-09,94.0,All,All,Tayside
-31,2020-02-24,96.0,All,All,Tayside
-43,2020-03-16,92.0,All,All,Tayside
-356,2020-05-04,102.0,All,All,Tayside
-387,2020-04-27,140.0,All,All,Tayside
-432,2020-01-20,107.0,All,All,Tayside
-500,2020-02-10,99.0,All,All,Tayside
-507,2020-02-03,97.0,All,All,Tayside
-515,2020-02-17,98.0,All,All,Tayside
-538,2020-01-27,99.0,All,All,Tayside
-613,2020-01-13,118.0,All,All,Tayside
-653,2020-03-30,126.0,All,All,Tayside
-685,2020-03-02,86.0,All,All,Tayside
-703,2020-04-13,171.0,All,All,Tayside
-722,2020-04-20,152.0,All,All,Tayside
-773,2020-01-06,156.0,All,All,Tayside
-809,2020-04-06,167.0,All,All,Tayside
-816,2019-12-30,96.0,All,All,Tayside
-1789,2020-04-06,38.0,COVID-19 related,All,Tayside
-1878,2020-04-27,34.0,COVID-19 related,All,Tayside
-1908,2020-05-04,33.0,COVID-19 related,All,Tayside
-2177,2020-03-23,3.0,COVID-19 related,All,Tayside
-2304,2020-03-16,0.0,COVID-19 related,All,Tayside
-2322,2020-03-30,14.0,COVID-19 related,All,Tayside
-2402,2020-04-20,59.0,COVID-19 related,All,Tayside
-2494,2020-04-13,51.0,COVID-19 related,All,Tayside
+141,2020-03-02,86,All,All,Tayside
+152,2020-03-09,94,All,All,Tayside
+161,2020-01-13,118,All,All,Tayside
+165,2020-02-03,97,All,All,Tayside
+172,2020-01-20,107,All,All,Tayside
+182,2020-01-06,156,All,All,Tayside
+207,2020-02-24,96,All,All,Tayside
+234,2020-02-17,98,All,All,Tayside
+242,2020-03-16,92,All,All,Tayside
+271,2020-05-04,102,All,All,Tayside
+345,2020-04-27,140,All,All,Tayside
+469,2020-05-11,126,All,All,Tayside
+706,2019-12-30,96,All,All,Tayside
+821,2020-02-10,99,All,All,Tayside
+831,2020-01-27,99,All,All,Tayside
+934,2020-03-30,126,All,All,Tayside
+936,2020-04-20,152,All,All,Tayside
+949,2020-04-06,167,All,All,Tayside
+955,2020-03-23,96,All,All,Tayside
+983,2020-04-13,171,All,All,Tayside
+2147,2020-05-11,25,COVID-19 related,All,Tayside
+2157,2020-04-13,51,COVID-19 related,All,Tayside
+2255,2020-05-04,33,COVID-19 related,All,Tayside
+2298,2020-04-20,59,COVID-19 related,All,Tayside
+2341,2020-04-27,34,COVID-19 related,All,Tayside
+2354,2020-03-23,3,COVID-19 related,All,Tayside
+2396,2020-03-30,14,COVID-19 related,All,Tayside
+2598,2020-04-06,38,COVID-19 related,All,Tayside
+2640,2020-03-16,0,COVID-19 related,All,Tayside

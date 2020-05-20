@@ -1,28 +1,30 @@
 ,DateCode,Number,Cause,Location,Name
-1,2020-03-23,144.0,All,All,Lothian
-17,2020-03-16,169.0,All,All,Lothian
-35,2020-02-24,171.0,All,All,Lothian
-354,2020-05-04,207.0,All,All,Lothian
-369,2020-04-27,280.0,All,All,Lothian
-433,2020-01-20,165.0,All,All,Lothian
-478,2020-02-10,171.0,All,All,Lothian
-509,2020-02-17,152.0,All,All,Lothian
-512,2020-02-03,191.0,All,All,Lothian
-555,2020-01-27,154.0,All,All,Lothian
-677,2020-03-09,182.0,All,All,Lothian
-686,2020-03-02,166.0,All,All,Lothian
-726,2020-04-20,258.0,All,All,Lothian
-730,2020-01-13,155.0,All,All,Lothian
-740,2020-01-06,196.0,All,All,Lothian
-751,2019-12-30,166.0,All,All,Lothian
-789,2020-03-30,228.0,All,All,Lothian
-811,2020-04-06,313.0,All,All,Lothian
-829,2020-04-13,271.0,All,All,Lothian
-1745,2020-04-06,108.0,COVID-19 related,All,Lothian
-1810,2020-04-27,99.0,COVID-19 related,All,Lothian
-1907,2020-05-04,81.0,COVID-19 related,All,Lothian
-2188,2020-03-16,2.0,COVID-19 related,All,Lothian
-2298,2020-03-23,7.0,COVID-19 related,All,Lothian
-2325,2020-03-30,32.0,COVID-19 related,All,Lothian
-2364,2020-04-13,109.0,COVID-19 related,All,Lothian
-2403,2020-04-20,113.0,COVID-19 related,All,Lothian
+124,2020-01-20,165,All,All,Lothian
+145,2020-03-09,182,All,All,Lothian
+157,2020-01-13,155,All,All,Lothian
+186,2020-02-17,152,All,All,Lothian
+202,2020-02-24,171,All,All,Lothian
+210,2020-03-02,166,All,All,Lothian
+219,2020-03-23,144,All,All,Lothian
+221,2020-03-16,169,All,All,Lothian
+367,2020-04-27,280,All,All,Lothian
+369,2020-05-04,207,All,All,Lothian
+442,2020-05-11,222,All,All,Lothian
+684,2020-01-06,196,All,All,Lothian
+685,2019-12-30,166,All,All,Lothian
+777,2020-04-06,313,All,All,Lothian
+810,2020-01-27,154,All,All,Lothian
+817,2020-02-03,191,All,All,Lothian
+833,2020-02-10,171,All,All,Lothian
+930,2020-03-30,228,All,All,Lothian
+962,2020-04-20,258,All,All,Lothian
+963,2020-04-13,271,All,All,Lothian
+2041,2020-05-11,53,COVID-19 related,All,Lothian
+2106,2020-04-13,109,COVID-19 related,All,Lothian
+2218,2020-05-04,81,COVID-19 related,All,Lothian
+2274,2020-04-27,99,COVID-19 related,All,Lothian
+2285,2020-04-20,113,COVID-19 related,All,Lothian
+2361,2020-03-23,7,COVID-19 related,All,Lothian
+2388,2020-03-30,32,COVID-19 related,All,Lothian
+2602,2020-04-06,108,COVID-19 related,All,Lothian
+2643,2020-03-16,2,COVID-19 related,All,Lothian
