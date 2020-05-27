@@ -1,30 +1,32 @@
 ,DateCode,Number,Cause,Location,Name
-127,2020-01-13,165,All,All,Lanarkshire
-132,2020-01-20,161,All,All,Lanarkshire
-146,2020-03-02,151,All,All,Lanarkshire
-153,2020-03-09,142,All,All,Lanarkshire
-171,2020-01-06,194,All,All,Lanarkshire
-203,2020-02-24,136,All,All,Lanarkshire
-230,2020-03-16,138,All,All,Lanarkshire
-236,2020-02-17,144,All,All,Lanarkshire
-268,2020-05-04,207,All,All,Lanarkshire
-360,2020-04-27,207,All,All,Lanarkshire
-490,2020-05-11,168,All,All,Lanarkshire
-694,2019-12-30,138,All,All,Lanarkshire
-775,2020-03-30,231,All,All,Lanarkshire
-809,2020-01-27,151,All,All,Lanarkshire
-823,2020-02-10,155,All,All,Lanarkshire
-824,2020-02-03,169,All,All,Lanarkshire
-947,2020-03-23,137,All,All,Lanarkshire
-951,2020-04-06,274,All,All,Lanarkshire
-964,2020-04-13,272,All,All,Lanarkshire
-978,2020-04-20,238,All,All,Lanarkshire
-2107,2020-04-13,90,COVID-19 related,All,Lanarkshire
-2145,2020-05-11,46,COVID-19 related,All,Lanarkshire
-2239,2020-05-04,51,COVID-19 related,All,Lanarkshire
-2299,2020-04-20,83,COVID-19 related,All,Lanarkshire
-2310,2020-04-27,74,COVID-19 related,All,Lanarkshire
-2347,2020-03-23,8,COVID-19 related,All,Lanarkshire
-2385,2020-03-30,40,COVID-19 related,All,Lanarkshire
-2601,2020-04-06,90,COVID-19 related,All,Lanarkshire
-2646,2020-03-16,0,COVID-19 related,All,Lanarkshire
+83,2020-05-11,46,COVID-19 related,All,Lanarkshire
+100,2020-03-23,8,COVID-19 related,All,Lanarkshire
+110,2020-03-16,0,COVID-19 related,All,Lanarkshire
+139,2020-04-20,83,COVID-19 related,All,Lanarkshire
+229,2020-05-04,51,COVID-19 related,All,Lanarkshire
+232,2020-05-18,30,COVID-19 related,All,Lanarkshire
+348,2020-04-27,74,COVID-19 related,All,Lanarkshire
+521,2020-04-13,90,COVID-19 related,All,Lanarkshire
+578,2020-03-30,40,COVID-19 related,All,Lanarkshire
+601,2020-04-06,90,COVID-19 related,All,Lanarkshire
+1024,2020-02-24,136,All causes,All,Lanarkshire
+1064,2020-03-02,151,All causes,All,Lanarkshire
+1198,2020-03-30,231,All causes,All,Lanarkshire
+1213,2020-02-10,155,All causes,All,Lanarkshire
+1239,2020-03-23,137,All causes,All,Lanarkshire
+1279,2020-02-03,169,All causes,All,Lanarkshire
+1307,2020-03-09,142,All causes,All,Lanarkshire
+1358,2020-02-17,144,All causes,All,Lanarkshire
+1465,2020-04-06,274,All causes,All,Lanarkshire
+1901,2020-04-27,207,All causes,All,Lanarkshire
+1946,2020-04-20,238,All causes,All,Lanarkshire
+2157,2020-04-13,272,All causes,All,Lanarkshire
+2333,2020-01-20,161,All causes,All,Lanarkshire
+2445,2020-01-06,194,All causes,All,Lanarkshire
+2452,2020-01-27,151,All causes,All,Lanarkshire
+2459,2020-03-16,138,All causes,All,Lanarkshire
+2580,2019-12-30,138,All causes,All,Lanarkshire
+2674,2020-05-04,207,All causes,All,Lanarkshire
+2677,2020-05-11,168,All causes,All,Lanarkshire
+2680,2020-05-18,151,All causes,All,Lanarkshire
+2717,2020-01-13,165,All causes,All,Lanarkshire

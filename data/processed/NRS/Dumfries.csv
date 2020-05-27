@@ -1,30 +1,32 @@
 ,DateCode,Number,Cause,Location,Name
-134,2020-01-27,43,All,All,Dumfries and Galloway
-136,2020-01-20,42,All,All,Dumfries and Galloway
-170,2020-02-10,43,All,All,Dumfries and Galloway
-184,2020-01-13,42,All,All,Dumfries and Galloway
-191,2020-03-02,40,All,All,Dumfries and Galloway
-200,2020-02-17,39,All,All,Dumfries and Galloway
-222,2020-03-16,41,All,All,Dumfries and Galloway
-227,2020-03-09,36,All,All,Dumfries and Galloway
-231,2020-03-23,28,All,All,Dumfries and Galloway
-238,2020-02-24,37,All,All,Dumfries and Galloway
-333,2020-04-27,45,All,All,Dumfries and Galloway
-357,2020-05-04,35,All,All,Dumfries and Galloway
-446,2020-05-11,39,All,All,Dumfries and Galloway
-681,2020-01-06,58,All,All,Dumfries and Galloway
-686,2019-12-30,37,All,All,Dumfries and Galloway
-785,2020-04-06,53,All,All,Dumfries and Galloway
-787,2020-04-13,42,All,All,Dumfries and Galloway
-814,2020-02-03,44,All,All,Dumfries and Galloway
-957,2020-03-30,73,All,All,Dumfries and Galloway
-968,2020-04-20,43,All,All,Dumfries and Galloway
-2014,2020-05-11,1,COVID-19 related,All,Dumfries and Galloway
-2168,2020-04-13,10,COVID-19 related,All,Dumfries and Galloway
-2222,2020-05-04,6,COVID-19 related,All,Dumfries and Galloway
-2279,2020-04-27,6,COVID-19 related,All,Dumfries and Galloway
-2296,2020-04-20,3,COVID-19 related,All,Dumfries and Galloway
-2405,2020-03-23,0,COVID-19 related,All,Dumfries and Galloway
-2530,2020-03-16,0,COVID-19 related,All,Dumfries and Galloway
-2607,2020-03-30,12,COVID-19 related,All,Dumfries and Galloway
-2649,2020-04-06,9,COVID-19 related,All,Dumfries and Galloway
+90,2020-05-11,1,COVID-19 related,All,Dumfries and Galloway
+96,2020-03-16,0,COVID-19 related,All,Dumfries and Galloway
+124,2020-04-06,9,COVID-19 related,All,Dumfries and Galloway
+165,2020-04-20,3,COVID-19 related,All,Dumfries and Galloway
+190,2020-05-04,6,COVID-19 related,All,Dumfries and Galloway
+290,2020-04-27,6,COVID-19 related,All,Dumfries and Galloway
+526,2020-04-13,10,COVID-19 related,All,Dumfries and Galloway
+585,2020-03-30,12,COVID-19 related,All,Dumfries and Galloway
+589,2020-03-23,0,COVID-19 related,All,Dumfries and Galloway
+833,2020-05-18,0,COVID-19 related,All,Dumfries and Galloway
+1002,2020-02-24,37,All causes,All,Dumfries and Galloway
+1016,2020-02-17,39,All causes,All,Dumfries and Galloway
+1041,2020-03-02,40,All causes,All,Dumfries and Galloway
+1231,2020-03-23,28,All causes,All,Dumfries and Galloway
+1329,2020-03-09,36,All causes,All,Dumfries and Galloway
+1331,2020-03-30,73,All causes,All,Dumfries and Galloway
+1338,2020-02-10,43,All causes,All,Dumfries and Galloway
+1355,2020-02-03,44,All causes,All,Dumfries and Galloway
+1471,2020-04-06,53,All causes,All,Dumfries and Galloway
+1879,2020-04-20,43,All causes,All,Dumfries and Galloway
+1964,2020-04-27,45,All causes,All,Dumfries and Galloway
+1976,2020-05-18,31,All causes,All,Dumfries and Galloway
+1982,2020-05-04,35,All causes,All,Dumfries and Galloway
+1985,2020-05-11,39,All causes,All,Dumfries and Galloway
+2177,2020-04-13,42,All causes,All,Dumfries and Galloway
+2378,2020-01-20,42,All causes,All,Dumfries and Galloway
+2407,2020-01-06,58,All causes,All,Dumfries and Galloway
+2431,2020-01-27,43,All causes,All,Dumfries and Galloway
+2489,2020-03-16,41,All causes,All,Dumfries and Galloway
+2534,2019-12-30,37,All causes,All,Dumfries and Galloway
+2750,2020-01-13,42,All causes,All,Dumfries and Galloway

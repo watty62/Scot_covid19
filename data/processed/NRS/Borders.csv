@@ -1,30 +1,32 @@
 ,DateCode,Number,Cause,Location,Name
-133,2020-01-27,27,All,All,Borders
-139,2020-01-20,29,All,All,Borders
-140,2020-03-09,29,All,All,Borders
-154,2020-03-16,36,All,All,Borders
-167,2020-02-10,25,All,All,Borders
-183,2020-01-13,38,All,All,Borders
-193,2020-03-02,32,All,All,Borders
-196,2020-02-24,35,All,All,Borders
-201,2020-02-17,23,All,All,Borders
-226,2020-03-23,23,All,All,Borders
-358,2020-05-04,24,All,All,Borders
-481,2020-05-11,28,All,All,Borders
-696,2020-01-06,41,All,All,Borders
-739,2019-12-30,20,All,All,Borders
-776,2020-04-06,37,All,All,Borders
-788,2020-04-13,31,All,All,Borders
-813,2020-02-03,24,All,All,Borders
-944,2020-03-30,42,All,All,Borders
-967,2020-04-20,30,All,All,Borders
-1624,2020-04-27,27,All,All,Borders
-2015,2020-05-11,6,COVID-19 related,All,Borders
-2175,2020-04-13,7,COVID-19 related,All,Borders
-2236,2020-05-04,3,COVID-19 related,All,Borders
-2293,2020-04-20,3,COVID-19 related,All,Borders
-2331,2020-04-27,4,COVID-19 related,All,Borders
-2406,2020-03-23,3,COVID-19 related,All,Borders
-2526,2020-03-16,0,COVID-19 related,All,Borders
-2599,2020-04-06,15,COVID-19 related,All,Borders
-2605,2020-03-30,13,COVID-19 related,All,Borders
+87,2020-05-11,6,COVID-19 related,All,Borders
+112,2020-03-16,0,COVID-19 related,All,Borders
+116,2020-04-06,15,COVID-19 related,All,Borders
+161,2020-04-20,3,COVID-19 related,All,Borders
+218,2020-05-04,3,COVID-19 related,All,Borders
+293,2020-04-27,4,COVID-19 related,All,Borders
+518,2020-04-13,7,COVID-19 related,All,Borders
+568,2020-03-30,13,COVID-19 related,All,Borders
+587,2020-03-23,3,COVID-19 related,All,Borders
+831,2020-05-18,4,COVID-19 related,All,Borders
+1001,2020-02-24,35,All causes,All,Borders
+1028,2020-02-17,23,All causes,All,Borders
+1053,2020-03-09,29,All causes,All,Borders
+1078,2020-03-02,32,All causes,All,Borders
+1185,2020-03-23,23,All causes,All,Borders
+1212,2020-02-10,25,All causes,All,Borders
+1341,2020-03-30,42,All causes,All,Borders
+1356,2020-02-03,24,All causes,All,Borders
+1462,2020-04-06,37,All causes,All,Borders
+1949,2020-04-20,30,All causes,All,Borders
+1968,2020-04-27,27,All causes,All,Borders
+1973,2020-05-18,32,All causes,All,Borders
+1974,2020-05-11,28,All causes,All,Borders
+1984,2020-05-04,24,All causes,All,Borders
+2175,2020-04-13,31,All causes,All,Borders
+2377,2020-01-20,29,All causes,All,Borders
+2396,2020-01-06,41,All causes,All,Borders
+2426,2020-01-27,27,All causes,All,Borders
+2503,2020-03-16,36,All causes,All,Borders
+2570,2019-12-30,20,All causes,All,Borders
+2745,2020-01-13,38,All causes,All,Borders
