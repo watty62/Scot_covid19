@@ -1,4 +1,4 @@
-DateCode,All,COVID-19_related,Five_Year_Avg,gap
+DateCode,All_causes,COVID-19_related,Five_Year_Avg,gap
 2019-12-30,1161,0,1276,-115
 2020-01-06,1567,0,1560,7
 2020-01-13,1322,0,1382,-60
@@ -22,3 +22,4 @@ DateCode,All,COVID-19_related,Five_Year_Avg,gap
 2020-05-18,1226,230,1045,181
 2020-05-25,1128,131,1017,111
 2020-06-01,1093,89,1056,37
+2020-06-08,1032,70,1000,32
