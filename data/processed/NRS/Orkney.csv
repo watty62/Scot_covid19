@@ -1,34 +1,54 @@
 ,DateCode,Number,Cause,Location,Name
-101,2020-05-18,8,All,All,Orkney
-128,2020-04-13,4,All,All,Orkney
-134,2020-03-30,9,All,All,Orkney
-179,2020-04-27,3,All,All,Orkney
-270,2020-05-11,5,All,All,Orkney
-382,2020-05-25,5,All,All,Orkney
-730,2020-03-16,7,All,All,Orkney
-778,2020-03-02,5,All,All,Orkney
-790,2020-04-06,11,All,All,Orkney
-792,2020-03-09,6,All,All,Orkney
-819,2020-03-23,8,All,All,Orkney
-884,2020-04-20,6,All,All,Orkney
-911,2020-05-04,2,All,All,Orkney
-993,2020-02-03,5,All,All,Orkney
-1010,2020-02-24,4,All,All,Orkney
-1055,2020-01-27,2,All,All,Orkney
-1056,2020-01-20,4,All,All,Orkney
-1239,2019-12-30,1,All,All,Orkney
-1247,2020-01-13,2,All,All,Orkney
-1253,2020-01-06,5,All,All,Orkney
-1318,2020-02-10,3,All,All,Orkney
-1394,2020-02-17,1,All,All,Orkney
-2086,2020-04-20,0,COVID-19 related,All,Orkney
-2179,2020-04-27,0,COVID-19 related,All,Orkney
-2248,2020-05-25,0,COVID-19 related,All,Orkney
-2262,2020-05-18,0,COVID-19 related,All,Orkney
-2550,2020-04-13,0,COVID-19 related,All,Orkney
-2572,2020-03-16,0,COVID-19 related,All,Orkney
-2651,2020-03-30,0,COVID-19 related,All,Orkney
-2676,2020-03-23,0,COVID-19 related,All,Orkney
-2728,2020-04-06,2,COVID-19 related,All,Orkney
-2785,2020-05-11,0,COVID-19 related,All,Orkney
-2826,2020-05-04,0,COVID-19 related,All,Orkney
+906,2020-06-15,5,All causes,All,Orkney
+996,2020-07-06,0,COVID-19 related,All,Orkney
+1001,2020-05-25,5,All causes,All,Orkney
+1034,2020-07-06,4,All causes,All,Orkney
+1049,2020-06-22,4,All causes,All,Orkney
+1059,2020-06-29,0,COVID-19 related,All,Orkney
+1173,2020-06-01,8,All causes,All,Orkney
+1263,2020-08-03,3,All causes,All,Orkney
+1543,2020-06-08,2,All causes,All,Orkney
+1782,2020-06-29,2,All causes,All,Orkney
+1811,2020-03-30,9,All causes,All,Orkney
+1813,2020-02-10,3,All causes,All,Orkney
+1814,2020-03-09,6,All causes,All,Orkney
+1821,2020-03-16,7,All causes,All,Orkney
+1822,2020-02-17,1,All causes,All,Orkney
+1823,2020-03-23,8,All causes,All,Orkney
+1831,2020-04-27,3,All causes,All,Orkney
+1929,2019-12-30,1,All causes,All,Orkney
+1947,2020-01-06,5,All causes,All,Orkney
+1957,2020-02-03,5,All causes,All,Orkney
+1975,2020-01-13,2,All causes,All,Orkney
+1976,2020-01-27,2,All causes,All,Orkney
+1979,2020-01-20,4,All causes,All,Orkney
+2121,2020-05-18,8,All causes,All,Orkney
+2122,2020-05-04,2,All causes,All,Orkney
+2123,2020-02-24,4,All causes,All,Orkney
+2124,2020-03-02,5,All causes,All,Orkney
+2125,2020-04-20,6,All causes,All,Orkney
+2127,2020-04-06,11,All causes,All,Orkney
+2132,2020-05-11,5,All causes,All,Orkney
+2144,2020-04-13,4,All causes,All,Orkney
+2331,2020-07-20,4,All causes,All,Orkney
+2335,2020-07-20,0,COVID-19 related,All,Orkney
+2336,2020-08-03,0,COVID-19 related,All,Orkney
+2338,2020-07-27,0,COVID-19 related,All,Orkney
+2341,2020-07-13,0,COVID-19 related,All,Orkney
+2345,2020-07-13,3,All causes,All,Orkney
+2363,2020-07-27,4,All causes,All,Orkney
+2534,2020-06-22,0,COVID-19 related,All,Orkney
+2676,2020-06-08,0,COVID-19 related,All,Orkney
+2679,2020-05-25,0,COVID-19 related,All,Orkney
+2744,2020-06-15,0,COVID-19 related,All,Orkney
+2754,2020-06-01,0,COVID-19 related,All,Orkney
+3285,2020-03-23,0,COVID-19 related,All,Orkney
+3311,2020-04-20,0,COVID-19 related,All,Orkney
+3315,2020-04-13,0,COVID-19 related,All,Orkney
+3320,2020-04-06,2,COVID-19 related,All,Orkney
+3321,2020-03-16,0,COVID-19 related,All,Orkney
+3322,2020-04-27,0,COVID-19 related,All,Orkney
+3330,2020-05-11,0,COVID-19 related,All,Orkney
+3331,2020-03-30,0,COVID-19 related,All,Orkney
+3333,2020-05-04,0,COVID-19 related,All,Orkney
+4182,2020-05-18,0,COVID-19 related,All,Orkney

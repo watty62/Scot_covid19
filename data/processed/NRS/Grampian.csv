@@ -1,34 +1,54 @@
 ,DateCode,Number,Cause,Location,Name
-91,2020-05-18,97,All,All,Grampian
-125,2020-03-30,141,All,All,Grampian
-170,2020-04-06,158,All,All,Grampian
-176,2020-04-13,169,All,All,Grampian
-204,2020-04-27,139,All,All,Grampian
-291,2020-05-11,110,All,All,Grampian
-457,2020-05-25,109,All,All,Grampian
-588,2020-04-20,147,All,All,Grampian
-774,2020-03-09,128,All,All,Grampian
-802,2020-03-23,112,All,All,Grampian
-803,2020-03-16,132,All,All,Grampian
-903,2020-05-04,128,All,All,Grampian
-949,2020-02-10,119,All,All,Grampian
-973,2020-02-03,131,All,All,Grampian
-1029,2020-03-02,106,All,All,Grampian
-1039,2020-01-20,117,All,All,Grampian
-1052,2020-02-24,111,All,All,Grampian
-1053,2020-01-27,109,All,All,Grampian
-1255,2020-01-06,148,All,All,Grampian
-1263,2019-12-30,113,All,All,Grampian
-1270,2020-01-13,122,All,All,Grampian
-1389,2020-02-17,131,All,All,Grampian
-1964,2020-03-23,3,COVID-19 related,All,Grampian
-2149,2020-04-27,30,COVID-19 related,All,Grampian
-2170,2020-04-20,40,COVID-19 related,All,Grampian
-2252,2020-05-25,9,COVID-19 related,All,Grampian
-2268,2020-05-18,17,COVID-19 related,All,Grampian
-2553,2020-04-13,43,COVID-19 related,All,Grampian
-2656,2020-04-06,35,COVID-19 related,All,Grampian
-2660,2020-03-30,6,COVID-19 related,All,Grampian
-2715,2020-03-16,2,COVID-19 related,All,Grampian
-2789,2020-05-11,27,COVID-19 related,All,Grampian
-2832,2020-05-04,28,COVID-19 related,All,Grampian
+886,2020-06-29,0,COVID-19 related,All,Grampian
+894,2020-06-15,95,All causes,All,Grampian
+1007,2020-06-22,97,All causes,All,Grampian
+1016,2020-07-06,110,All causes,All,Grampian
+1124,2020-08-03,0,COVID-19 related,All,Grampian
+1141,2020-06-01,111,All causes,All,Grampian
+1178,2020-05-25,110,All causes,All,Grampian
+1204,2020-08-03,91,All causes,All,Grampian
+1618,2020-06-08,95,All causes,All,Grampian
+1777,2020-06-29,83,All causes,All,Grampian
+2107,2020-04-06,158,All causes,All,Grampian
+2108,2020-05-11,110,All causes,All,Grampian
+2109,2020-04-13,169,All causes,All,Grampian
+2113,2020-05-18,97,All causes,All,Grampian
+2135,2020-02-24,111,All causes,All,Grampian
+2136,2020-03-23,112,All causes,All,Grampian
+2137,2020-03-02,106,All causes,All,Grampian
+2138,2020-02-10,119,All causes,All,Grampian
+2139,2020-02-17,131,All causes,All,Grampian
+2141,2020-03-30,141,All causes,All,Grampian
+2143,2020-03-09,128,All causes,All,Grampian
+2145,2020-03-16,132,All causes,All,Grampian
+2172,2019-12-30,113,All causes,All,Grampian
+2181,2020-01-06,148,All causes,All,Grampian
+2182,2020-02-03,131,All causes,All,Grampian
+2184,2020-05-04,128,All causes,All,Grampian
+2185,2020-04-20,147,All causes,All,Grampian
+2186,2020-04-27,139,All causes,All,Grampian
+2189,2020-01-20,117,All causes,All,Grampian
+2200,2020-01-13,122,All causes,All,Grampian
+2201,2020-01-27,109,All causes,All,Grampian
+2321,2020-07-20,87,All causes,All,Grampian
+2346,2020-07-13,94,All causes,All,Grampian
+2375,2020-07-27,0,COVID-19 related,All,Grampian
+2377,2020-07-13,1,COVID-19 related,All,Grampian
+2378,2020-07-20,0,COVID-19 related,All,Grampian
+2403,2020-07-27,122,All causes,All,Grampian
+2533,2020-06-22,3,COVID-19 related,All,Grampian
+3253,2020-04-20,40,COVID-19 related,All,Grampian
+3254,2020-03-16,2,COVID-19 related,All,Grampian
+3256,2020-03-23,3,COVID-19 related,All,Grampian
+3265,2020-03-30,6,COVID-19 related,All,Grampian
+3270,2020-04-13,43,COVID-19 related,All,Grampian
+3278,2020-04-06,35,COVID-19 related,All,Grampian
+3279,2020-04-27,30,COVID-19 related,All,Grampian
+3295,2020-05-04,28,COVID-19 related,All,Grampian
+3296,2020-05-11,27,COVID-19 related,All,Grampian
+3300,2020-05-18,17,COVID-19 related,All,Grampian
+3340,2020-06-08,6,COVID-19 related,All,Grampian
+3359,2020-06-15,4,COVID-19 related,All,Grampian
+3510,2020-05-25,9,COVID-19 related,All,Grampian
+3520,2020-06-01,5,COVID-19 related,All,Grampian
+3620,2020-07-06,1,COVID-19 related,All,Grampian

@@ -1,34 +1,54 @@
 ,DateCode,Number,Cause,Location,Name
-130,2020-04-06,499,All,All,Greater Glasgow and Clyde
-141,2020-03-23,167,All,All,Greater Glasgow and Clyde
-145,2020-03-30,479,All,All,Greater Glasgow and Clyde
-184,2020-04-27,410,All,All,Greater Glasgow and Clyde
-289,2020-05-11,342,All,All,Greater Glasgow and Clyde
-375,2020-05-25,244,All,All,Greater Glasgow and Clyde
-376,2020-05-18,308,All,All,Greater Glasgow and Clyde
-767,2020-03-09,234,All,All,Greater Glasgow and Clyde
-812,2020-03-02,283,All,All,Greater Glasgow and Clyde
-825,2020-03-16,264,All,All,Greater Glasgow and Clyde
-860,2020-04-20,518,All,All,Greater Glasgow and Clyde
-863,2020-04-13,482,All,All,Greater Glasgow and Clyde
-906,2020-05-04,344,All,All,Greater Glasgow and Clyde
-951,2020-01-27,264,All,All,Greater Glasgow and Clyde
-958,2020-02-03,245,All,All,Greater Glasgow and Clyde
-1004,2020-02-17,238,All,All,Greater Glasgow and Clyde
-1032,2020-01-20,235,All,All,Greater Glasgow and Clyde
-1245,2019-12-30,250,All,All,Greater Glasgow and Clyde
-1284,2020-01-06,353,All,All,Greater Glasgow and Clyde
-1289,2020-01-13,296,All,All,Greater Glasgow and Clyde
-1302,2020-02-10,243,All,All,Greater Glasgow and Clyde
-1310,2020-02-24,255,All,All,Greater Glasgow and Clyde
-1962,2020-03-23,13,COVID-19 related,All,Greater Glasgow and Clyde
-2095,2020-04-20,230,COVID-19 related,All,Greater Glasgow and Clyde
-2117,2020-05-18,75,COVID-19 related,All,Greater Glasgow and Clyde
-2302,2020-05-25,30,COVID-19 related,All,Greater Glasgow and Clyde
-2544,2020-04-13,197,COVID-19 related,All,Greater Glasgow and Clyde
-2652,2020-04-06,193,COVID-19 related,All,Greater Glasgow and Clyde
-2663,2020-03-30,107,COVID-19 related,All,Greater Glasgow and Clyde
-2717,2020-03-16,3,COVID-19 related,All,Greater Glasgow and Clyde
-2761,2020-04-27,170,COVID-19 related,All,Greater Glasgow and Clyde
-2820,2020-05-04,126,COVID-19 related,All,Greater Glasgow and Clyde
-2937,2020-05-11,118,COVID-19 related,All,Greater Glasgow and Clyde
+913,2020-06-15,217,All causes,All,Greater Glasgow and Clyde
+971,2020-06-22,235,All causes,All,Greater Glasgow and Clyde
+1060,2020-06-29,4,COVID-19 related,All,Greater Glasgow and Clyde
+1199,2020-08-03,211,All causes,All,Greater Glasgow and Clyde
+1229,2020-07-06,197,All causes,All,Greater Glasgow and Clyde
+1541,2020-06-08,235,All causes,All,Greater Glasgow and Clyde
+1601,2020-07-06,1,COVID-19 related,All,Greater Glasgow and Clyde
+1613,2020-06-01,236,All causes,All,Greater Glasgow and Clyde
+1898,2020-03-30,479,All causes,All,Greater Glasgow and Clyde
+1904,2020-04-13,482,All causes,All,Greater Glasgow and Clyde
+1907,2020-04-06,499,All causes,All,Greater Glasgow and Clyde
+1908,2020-05-04,344,All causes,All,Greater Glasgow and Clyde
+1909,2020-03-23,167,All causes,All,Greater Glasgow and Clyde
+2128,2020-06-29,208,All causes,All,Greater Glasgow and Clyde
+2276,2020-03-09,244,All causes,All,Greater Glasgow and Clyde
+2278,2020-03-16,264,All causes,All,Greater Glasgow and Clyde
+2279,2020-02-24,255,All causes,All,Greater Glasgow and Clyde
+2280,2020-05-18,308,All causes,All,Greater Glasgow and Clyde
+2283,2020-01-06,353,All causes,All,Greater Glasgow and Clyde
+2285,2020-03-02,283,All causes,All,Greater Glasgow and Clyde
+2287,2020-01-27,264,All causes,All,Greater Glasgow and Clyde
+2288,2020-02-17,238,All causes,All,Greater Glasgow and Clyde
+2289,2020-01-20,235,All causes,All,Greater Glasgow and Clyde
+2347,2020-07-13,220,All causes,All,Greater Glasgow and Clyde
+2351,2020-07-27,225,All causes,All,Greater Glasgow and Clyde
+2410,2020-05-25,245,All causes,All,Greater Glasgow and Clyde
+2426,2020-07-20,212,All causes,All,Greater Glasgow and Clyde
+2506,2020-04-27,410,All causes,All,Greater Glasgow and Clyde
+2507,2020-05-11,342,All causes,All,Greater Glasgow and Clyde
+2508,2020-04-20,518,All causes,All,Greater Glasgow and Clyde
+2524,2020-06-22,8,COVID-19 related,All,Greater Glasgow and Clyde
+2580,2019-12-30,250,All causes,All,Greater Glasgow and Clyde
+2585,2020-01-13,296,All causes,All,Greater Glasgow and Clyde
+2588,2020-02-10,243,All causes,All,Greater Glasgow and Clyde
+2589,2020-02-03,245,All causes,All,Greater Glasgow and Clyde
+3116,2020-04-06,193,COVID-19 related,All,Greater Glasgow and Clyde
+3117,2020-04-13,197,COVID-19 related,All,Greater Glasgow and Clyde
+3119,2020-04-20,231,COVID-19 related,All,Greater Glasgow and Clyde
+3120,2020-03-30,107,COVID-19 related,All,Greater Glasgow and Clyde
+3124,2020-04-27,171,COVID-19 related,All,Greater Glasgow and Clyde
+3157,2020-05-11,118,COVID-19 related,All,Greater Glasgow and Clyde
+3158,2020-03-23,13,COVID-19 related,All,Greater Glasgow and Clyde
+3159,2020-05-04,126,COVID-19 related,All,Greater Glasgow and Clyde
+3170,2020-05-18,75,COVID-19 related,All,Greater Glasgow and Clyde
+3206,2020-03-16,3,COVID-19 related,All,Greater Glasgow and Clyde
+3403,2020-06-15,15,COVID-19 related,All,Greater Glasgow and Clyde
+3407,2020-06-01,21,COVID-19 related,All,Greater Glasgow and Clyde
+3408,2020-06-08,17,COVID-19 related,All,Greater Glasgow and Clyde
+3441,2020-05-25,30,COVID-19 related,All,Greater Glasgow and Clyde
+3695,2020-08-03,3,COVID-19 related,All,Greater Glasgow and Clyde
+3704,2020-07-27,3,COVID-19 related,All,Greater Glasgow and Clyde
+4381,2020-07-13,0,COVID-19 related,All,Greater Glasgow and Clyde
+4409,2020-07-20,3,COVID-19 related,All,Greater Glasgow and Clyde

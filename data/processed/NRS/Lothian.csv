@@ -1,34 +1,54 @@
 ,DateCode,Number,Cause,Location,Name
-92,2020-05-18,189,All,All,Lothian
-126,2020-04-13,271,All,All,Lothian
-133,2020-03-30,228,All,All,Lothian
-205,2020-04-27,280,All,All,Lothian
-273,2020-05-11,224,All,All,Lothian
-383,2020-05-25,156,All,All,Lothian
-729,2020-03-16,169,All,All,Lothian
-776,2020-03-02,166,All,All,Lothian
-784,2020-04-06,313,All,All,Lothian
-793,2020-03-09,182,All,All,Lothian
-822,2020-03-23,144,All,All,Lothian
-883,2020-04-20,258,All,All,Lothian
-913,2020-05-04,207,All,All,Lothian
-992,2020-02-03,191,All,All,Lothian
-1016,2020-02-24,171,All,All,Lothian
-1054,2020-01-27,154,All,All,Lothian
-1057,2020-01-20,165,All,All,Lothian
-1250,2020-01-13,155,All,All,Lothian
-1262,2019-12-30,166,All,All,Lothian
-1266,2020-01-06,196,All,All,Lothian
-1313,2020-02-10,171,All,All,Lothian
-1387,2020-02-17,152,All,All,Lothian
-2144,2020-04-27,99,COVID-19 related,All,Lothian
-2166,2020-04-20,113,COVID-19 related,All,Lothian
-2250,2020-05-25,24,COVID-19 related,All,Lothian
-2266,2020-05-18,44,COVID-19 related,All,Lothian
-2555,2020-04-13,109,COVID-19 related,All,Lothian
-2573,2020-03-16,2,COVID-19 related,All,Lothian
-2649,2020-03-30,32,COVID-19 related,All,Lothian
-2677,2020-03-23,7,COVID-19 related,All,Lothian
-2733,2020-04-06,108,COVID-19 related,All,Lothian
-2778,2020-05-11,54,COVID-19 related,All,Lothian
-2833,2020-05-04,81,COVID-19 related,All,Lothian
+887,2020-06-15,168,All causes,All,Lothian
+904,2020-07-06,125,All causes,All,Lothian
+1053,2020-06-22,125,All causes,All,Lothian
+1055,2020-06-29,7,COVID-19 related,All,Lothian
+1149,2020-06-01,154,All causes,All,Lothian
+1167,2020-05-25,156,All causes,All,Lothian
+1205,2020-08-03,125,All causes,All,Lothian
+1619,2020-06-08,136,All causes,All,Lothian
+1864,2020-06-29,139,All causes,All,Lothian
+1924,2020-02-17,152,All causes,All,Lothian
+1925,2020-02-10,171,All causes,All,Lothian
+1926,2020-03-02,166,All causes,All,Lothian
+1927,2020-02-03,191,All causes,All,Lothian
+1928,2020-01-20,165,All causes,All,Lothian
+1930,2020-01-27,154,All causes,All,Lothian
+1931,2020-03-16,169,All causes,All,Lothian
+1932,2020-02-24,171,All causes,All,Lothian
+1937,2020-03-09,182,All causes,All,Lothian
+1938,2020-01-13,155,All causes,All,Lothian
+1948,2019-12-30,166,All causes,All,Lothian
+1950,2020-01-06,196,All causes,All,Lothian
+1951,2020-05-18,189,All causes,All,Lothian
+1952,2020-03-23,144,All causes,All,Lothian
+1953,2020-04-20,258,All causes,All,Lothian
+1954,2020-03-30,228,All causes,All,Lothian
+1955,2020-05-04,207,All causes,All,Lothian
+1956,2020-05-11,224,All causes,All,Lothian
+1958,2020-04-27,280,All causes,All,Lothian
+1973,2020-04-06,313,All causes,All,Lothian
+1974,2020-04-13,271,All causes,All,Lothian
+2320,2020-07-20,135,All causes,All,Lothian
+2340,2020-07-13,120,All causes,All,Lothian
+2404,2020-07-27,1,COVID-19 related,All,Lothian
+2405,2020-07-13,2,COVID-19 related,All,Lothian
+2408,2020-07-20,0,COVID-19 related,All,Lothian
+2415,2020-08-03,0,COVID-19 related,All,Lothian
+2425,2020-07-27,114,All causes,All,Lothian
+2530,2020-06-22,4,COVID-19 related,All,Lothian
+2678,2020-06-15,9,COVID-19 related,All,Lothian
+3239,2020-03-23,7,COVID-19 related,All,Lothian
+3241,2020-04-27,99,COVID-19 related,All,Lothian
+3242,2020-03-16,2,COVID-19 related,All,Lothian
+3251,2020-05-18,44,COVID-19 related,All,Lothian
+3252,2020-05-04,81,COVID-19 related,All,Lothian
+3269,2020-04-13,109,COVID-19 related,All,Lothian
+3274,2020-04-20,114,COVID-19 related,All,Lothian
+3275,2020-05-11,54,COVID-19 related,All,Lothian
+3277,2020-03-30,32,COVID-19 related,All,Lothian
+3280,2020-04-06,108,COVID-19 related,All,Lothian
+3508,2020-05-25,24,COVID-19 related,All,Lothian
+3511,2020-06-01,15,COVID-19 related,All,Lothian
+3519,2020-06-08,11,COVID-19 related,All,Lothian
+3618,2020-07-06,5,COVID-19 related,All,Lothian

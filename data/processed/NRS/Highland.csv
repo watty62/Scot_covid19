@@ -1,34 +1,54 @@
 ,DateCode,Number,Cause,Location,Name
-89,2020-05-18,73,All,All,Highland
-139,2020-03-30,102,All,All,Highland
-152,2020-04-06,100,All,All,Highland
-175,2020-04-13,107,All,All,Highland
-194,2020-04-27,78,All,All,Highland
-290,2020-05-11,83,All,All,Highland
-452,2020-05-25,74,All,All,Highland
-578,2020-04-20,94,All,All,Highland
-727,2020-03-16,72,All,All,Highland
-771,2020-03-09,77,All,All,Highland
-820,2020-03-23,70,All,All,Highland
-902,2020-05-04,83,All,All,Highland
-953,2020-02-03,69,All,All,Highland
-1012,2020-02-24,78,All,All,Highland
-1020,2020-03-02,70,All,All,Highland
-1036,2020-01-20,77,All,All,Highland
-1060,2020-01-27,82,All,All,Highland
-1265,2020-01-06,95,All,All,Highland
-1267,2019-12-30,75,All,All,Highland
-1296,2020-01-13,94,All,All,Highland
-1319,2020-02-10,68,All,All,Highland
-1392,2020-02-17,66,All,All,Highland
-2147,2020-04-27,16,COVID-19 related,All,Highland
-2165,2020-04-20,22,COVID-19 related,All,Highland
-2254,2020-05-25,4,COVID-19 related,All,Highland
-2267,2020-05-18,4,COVID-19 related,All,Highland
-2554,2020-04-13,21,COVID-19 related,All,Highland
-2653,2020-04-06,13,COVID-19 related,All,Highland
-2665,2020-03-30,11,COVID-19 related,All,Highland
-2679,2020-03-23,5,COVID-19 related,All,Highland
-2719,2020-03-16,0,COVID-19 related,All,Highland
-2779,2020-05-11,6,COVID-19 related,All,Highland
-2828,2020-05-04,9,COVID-19 related,All,Highland
+884,2020-06-15,66,All causes,All,Highland
+902,2020-07-06,67,All causes,All,Highland
+972,2020-06-22,54,All causes,All,Highland
+1024,2020-06-29,0,COVID-19 related,All,Highland
+1123,2020-08-03,0,COVID-19 related,All,Highland
+1127,2020-07-20,0,COVID-19 related,All,Highland
+1129,2020-07-27,0,COVID-19 related,All,Highland
+1137,2020-06-01,73,All causes,All,Highland
+1177,2020-05-25,74,All causes,All,Highland
+1195,2020-08-03,84,All causes,All,Highland
+1611,2020-06-08,67,All causes,All,Highland
+1849,2020-06-22,0,COVID-19 related,All,Highland
+1865,2020-06-29,65,All causes,All,Highland
+1935,2020-05-11,83,All causes,All,Highland
+1936,2020-05-18,73,All causes,All,Highland
+1940,2020-04-27,78,All causes,All,Highland
+1949,2020-05-04,83,All causes,All,Highland
+2093,2020-04-06,100,All causes,All,Highland
+2095,2020-04-13,107,All causes,All,Highland
+2096,2020-01-20,77,All causes,All,Highland
+2100,2020-02-24,78,All causes,All,Highland
+2101,2020-02-03,69,All causes,All,Highland
+2102,2020-01-13,94,All causes,All,Highland
+2103,2020-01-27,82,All causes,All,Highland
+2104,2020-04-20,94,All causes,All,Highland
+2105,2020-03-30,102,All causes,All,Highland
+2106,2020-02-17,66,All causes,All,Highland
+2111,2019-12-30,75,All causes,All,Highland
+2140,2020-01-06,95,All causes,All,Highland
+2142,2020-03-16,72,All causes,All,Highland
+2146,2020-03-09,78,All causes,All,Highland
+2147,2020-03-23,70,All causes,All,Highland
+2148,2020-03-02,70,All causes,All,Highland
+2151,2020-02-10,68,All causes,All,Highland
+2330,2020-07-20,56,All causes,All,Highland
+2344,2020-07-13,72,All causes,All,Highland
+2406,2020-07-13,0,COVID-19 related,All,Highland
+2430,2020-07-27,59,All causes,All,Highland
+3245,2020-05-11,6,COVID-19 related,All,Highland
+3250,2020-05-04,9,COVID-19 related,All,Highland
+3257,2020-04-06,13,COVID-19 related,All,Highland
+3258,2020-03-30,11,COVID-19 related,All,Highland
+3259,2020-04-13,21,COVID-19 related,All,Highland
+3261,2020-05-18,4,COVID-19 related,All,Highland
+3276,2020-03-23,5,COVID-19 related,All,Highland
+3299,2020-03-16,1,COVID-19 related,All,Highland
+3316,2020-04-27,16,COVID-19 related,All,Highland
+3317,2020-04-20,22,COVID-19 related,All,Highland
+3509,2020-05-25,4,COVID-19 related,All,Highland
+3512,2020-06-01,2,COVID-19 related,All,Highland
+3514,2020-06-15,0,COVID-19 related,All,Highland
+3531,2020-06-08,0,COVID-19 related,All,Highland
+3619,2020-07-06,1,COVID-19 related,All,Highland

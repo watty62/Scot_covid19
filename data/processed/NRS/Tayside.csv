@@ -1,34 +1,54 @@
 ,DateCode,Number,Cause,Location,Name
-142,2020-03-23,96,All,All,Tayside
-147,2020-03-30,126,All,All,Tayside
-190,2020-04-27,140,All,All,Tayside
-288,2020-05-11,126,All,All,Tayside
-369,2020-05-25,104,All,All,Tayside
-453,2020-05-18,105,All,All,Tayside
-577,2020-04-13,171,All,All,Tayside
-773,2020-03-09,94,All,All,Tayside
-786,2020-04-06,167,All,All,Tayside
-818,2020-03-02,86,All,All,Tayside
-824,2020-03-16,92,All,All,Tayside
-880,2020-04-20,152,All,All,Tayside
-900,2020-05-04,102,All,All,Tayside
-957,2020-01-27,99,All,All,Tayside
-1023,2020-02-24,96,All,All,Tayside
-1038,2020-01-20,107,All,All,Tayside
-1042,2020-02-03,97,All,All,Tayside
-1244,2019-12-30,96,All,All,Tayside
-1285,2020-01-06,156,All,All,Tayside
-1288,2020-01-13,118,All,All,Tayside
-1301,2020-02-10,99,All,All,Tayside
-1395,2020-02-17,98,All,All,Tayside
-2097,2020-04-20,59,COVID-19 related,All,Tayside
-2121,2020-05-18,19,COVID-19 related,All,Tayside
-2290,2020-05-25,13,COVID-19 related,All,Tayside
-2539,2020-04-13,51,COVID-19 related,All,Tayside
-2580,2020-03-16,0,COVID-19 related,All,Tayside
-2645,2020-03-30,14,COVID-19 related,All,Tayside
-2673,2020-03-23,3,COVID-19 related,All,Tayside
-2730,2020-04-06,38,COVID-19 related,All,Tayside
-2749,2020-04-27,34,COVID-19 related,All,Tayside
-2821,2020-05-04,33,COVID-19 related,All,Tayside
-2940,2020-05-11,25,COVID-19 related,All,Tayside
+914,2020-06-15,92,All causes,All,Tayside
+973,2020-06-22,63,All causes,All,Tayside
+981,2020-06-29,3,COVID-19 related,All,Tayside
+1009,2020-07-06,2,COVID-19 related,All,Tayside
+1139,2020-06-01,90,All causes,All,Tayside
+1198,2020-08-03,79,All causes,All,Tayside
+1234,2020-07-06,88,All causes,All,Tayside
+1542,2020-06-08,90,All causes,All,Tayside
+1780,2020-06-29,101,All causes,All,Tayside
+1783,2020-01-27,99,All causes,All,Tayside
+1784,2020-02-24,96,All causes,All,Tayside
+1785,2020-01-06,156,All causes,All,Tayside
+1786,2020-01-13,118,All causes,All,Tayside
+1787,2020-02-17,98,All causes,All,Tayside
+1788,2020-04-20,152,All causes,All,Tayside
+1789,2020-02-03,97,All causes,All,Tayside
+1792,2020-03-09,94,All causes,All,Tayside
+1793,2020-03-23,96,All causes,All,Tayside
+1804,2020-01-20,107,All causes,All,Tayside
+1805,2020-04-06,167,All causes,All,Tayside
+1806,2020-03-30,126,All causes,All,Tayside
+1807,2020-04-13,171,All causes,All,Tayside
+1943,2020-03-02,86,All causes,All,Tayside
+1944,2020-03-16,92,All causes,All,Tayside
+1977,2019-12-30,96,All causes,All,Tayside
+2023,2020-02-10,99,All causes,All,Tayside
+2266,2020-05-11,126,All causes,All,Tayside
+2267,2020-05-18,105,All causes,All,Tayside
+2284,2020-04-27,140,All causes,All,Tayside
+2286,2020-05-04,102,All causes,All,Tayside
+2348,2020-07-13,95,All causes,All,Tayside
+2349,2020-07-20,74,All causes,All,Tayside
+2374,2020-07-27,79,All causes,All,Tayside
+2411,2020-05-25,105,All causes,All,Tayside
+2450,2020-06-22,2,COVID-19 related,All,Tayside
+2801,2020-06-01,9,COVID-19 related,All,Tayside
+2805,2020-05-25,13,COVID-19 related,All,Tayside
+3118,2020-05-04,33,COVID-19 related,All,Tayside
+3121,2020-04-27,34,COVID-19 related,All,Tayside
+3186,2020-03-23,3,COVID-19 related,All,Tayside
+3198,2020-04-13,51,COVID-19 related,All,Tayside
+3199,2020-04-20,59,COVID-19 related,All,Tayside
+3200,2020-05-11,25,COVID-19 related,All,Tayside
+3220,2020-05-18,19,COVID-19 related,All,Tayside
+3396,2020-06-15,2,COVID-19 related,All,Tayside
+3406,2020-06-08,9,COVID-19 related,All,Tayside
+3487,2020-04-06,37,COVID-19 related,All,Tayside
+3489,2020-03-30,14,COVID-19 related,All,Tayside
+3490,2020-03-16,0,COVID-19 related,All,Tayside
+4389,2020-08-03,1,COVID-19 related,All,Tayside
+4408,2020-07-13,0,COVID-19 related,All,Tayside
+4410,2020-07-20,0,COVID-19 related,All,Tayside
+4414,2020-07-27,0,COVID-19 related,All,Tayside

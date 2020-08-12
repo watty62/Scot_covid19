@@ -1,34 +1,54 @@
 ,DateCode,Number,Cause,Location,Name
-102,2020-05-18,2,All,All,Shetland
-129,2020-04-13,3,All,All,Shetland
-144,2020-03-23,9,All,All,Shetland
-177,2020-04-27,6,All,All,Shetland
-217,2020-03-30,8,All,All,Shetland
-294,2020-05-11,6,All,All,Shetland
-381,2020-05-25,5,All,All,Shetland
-770,2020-03-09,3,All,All,Shetland
-775,2020-03-02,4,All,All,Shetland
-796,2020-04-06,8,All,All,Shetland
-799,2020-03-16,3,All,All,Shetland
-882,2020-04-20,2,All,All,Shetland
-904,2020-05-04,6,All,All,Shetland
-968,2020-02-03,6,All,All,Shetland
-1011,2020-02-24,3,All,All,Shetland
-1045,2020-01-20,2,All,All,Shetland
-1049,2020-01-27,5,All,All,Shetland
-1241,2019-12-30,5,All,All,Shetland
-1252,2020-01-13,2,All,All,Shetland
-1256,2020-01-06,4,All,All,Shetland
-1317,2020-02-10,4,All,All,Shetland
-1396,2020-02-17,4,All,All,Shetland
-2083,2020-04-20,0,COVID-19 related,All,Shetland
-2184,2020-04-27,1,COVID-19 related,All,Shetland
-2251,2020-05-25,0,COVID-19 related,All,Shetland
-2263,2020-05-18,0,COVID-19 related,All,Shetland
-2536,2020-04-13,1,COVID-19 related,All,Shetland
-2582,2020-03-16,0,COVID-19 related,All,Shetland
-2648,2020-03-30,1,COVID-19 related,All,Shetland
-2674,2020-03-23,0,COVID-19 related,All,Shetland
-2729,2020-04-06,4,COVID-19 related,All,Shetland
-2788,2020-05-11,0,COVID-19 related,All,Shetland
-2825,2020-05-04,0,COVID-19 related,All,Shetland
+970,2020-06-22,0,All causes,All,Shetland
+1000,2020-05-25,5,All causes,All,Shetland
+1013,2020-07-06,0,COVID-19 related,All,Shetland
+1032,2020-07-06,7,All causes,All,Shetland
+1044,2020-06-29,0,COVID-19 related,All,Shetland
+1125,2020-08-03,0,COVID-19 related,All,Shetland
+1134,2020-07-20,0,COVID-19 related,All,Shetland
+1135,2020-07-27,0,COVID-19 related,All,Shetland
+1176,2020-06-01,3,All causes,All,Shetland
+1214,2020-06-15,3,All causes,All,Shetland
+1264,2020-08-03,4,All causes,All,Shetland
+1549,2020-06-08,4,All causes,All,Shetland
+1781,2020-06-29,4,All causes,All,Shetland
+1812,2020-01-13,2,All causes,All,Shetland
+1815,2020-01-06,4,All causes,All,Shetland
+1816,2020-02-03,6,All causes,All,Shetland
+1817,2020-02-17,4,All causes,All,Shetland
+1818,2020-03-09,3,All causes,All,Shetland
+1819,2020-04-13,3,All causes,All,Shetland
+1820,2020-03-23,9,All causes,All,Shetland
+1824,2020-03-02,4,All causes,All,Shetland
+1832,2020-03-30,8,All causes,All,Shetland
+1833,2020-04-06,8,All causes,All,Shetland
+1834,2020-02-10,4,All causes,All,Shetland
+1835,2020-02-24,3,All causes,All,Shetland
+1836,2020-01-27,5,All causes,All,Shetland
+1837,2020-01-20,2,All causes,All,Shetland
+1838,2020-04-20,2,All causes,All,Shetland
+1858,2020-03-16,3,All causes,All,Shetland
+1992,2020-05-04,6,All causes,All,Shetland
+1993,2020-05-18,2,All causes,All,Shetland
+1994,2020-04-27,6,All causes,All,Shetland
+2034,2020-05-11,6,All causes,All,Shetland
+2133,2019-12-30,5,All causes,All,Shetland
+2333,2020-07-13,0,COVID-19 related,All,Shetland
+2357,2020-07-13,5,All causes,All,Shetland
+2358,2020-07-20,3,All causes,All,Shetland
+2373,2020-07-27,3,All causes,All,Shetland
+2531,2020-06-22,0,COVID-19 related,All,Shetland
+2672,2020-06-08,0,COVID-19 related,All,Shetland
+2673,2020-06-01,0,COVID-19 related,All,Shetland
+2683,2020-06-15,0,COVID-19 related,All,Shetland
+2755,2020-05-25,0,COVID-19 related,All,Shetland
+3155,2020-05-11,0,COVID-19 related,All,Shetland
+3156,2020-05-04,0,COVID-19 related,All,Shetland
+3164,2020-04-27,1,COVID-19 related,All,Shetland
+3166,2020-04-20,0,COVID-19 related,All,Shetland
+3306,2020-05-18,0,COVID-19 related,All,Shetland
+3308,2020-03-30,1,COVID-19 related,All,Shetland
+3314,2020-04-06,4,COVID-19 related,All,Shetland
+3332,2020-04-13,1,COVID-19 related,All,Shetland
+3334,2020-03-23,0,COVID-19 related,All,Shetland
+4183,2020-03-16,0,COVID-19 related,All,Shetland

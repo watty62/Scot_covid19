@@ -1,34 +1,54 @@
 ,DateCode,Number,Cause,Location,Name
-123,2020-03-23,5,All,All,Western Isles
-138,2020-03-30,6,All,All,Western Isles
-158,2020-04-06,8,All,All,Western Isles
-180,2020-04-27,5,All,All,Western Isles
-293,2020-05-11,4,All,All,Western Isles
-374,2020-05-18,5,All,All,Western Isles
-377,2020-05-25,7,All,All,Western Isles
-582,2020-04-13,8,All,All,Western Isles
-748,2020-05-04,2,All,All,Western Isles
-779,2020-03-02,6,All,All,Western Isles
-780,2020-03-09,11,All,All,Western Isles
-809,2020-03-16,5,All,All,Western Isles
-874,2020-04-20,10,All,All,Western Isles
-947,2020-02-03,11,All,All,Western Isles
-1021,2020-02-24,10,All,All,Western Isles
-1043,2020-01-20,10,All,All,Western Isles
-1058,2020-01-27,10,All,All,Western Isles
-1238,2019-12-30,9,All,All,Western Isles
-1240,2020-01-13,10,All,All,Western Isles
-1286,2020-01-06,8,All,All,Western Isles
-1316,2020-02-10,3,All,All,Western Isles
-1397,2020-02-17,8,All,All,Western Isles
-1967,2020-03-23,0,COVID-19 related,All,Western Isles
-2116,2020-05-18,0,COVID-19 related,All,Western Isles
-2182,2020-04-20,0,COVID-19 related,All,Western Isles
-2293,2020-05-25,0,COVID-19 related,All,Western Isles
-2541,2020-04-13,0,COVID-19 related,All,Western Isles
-2574,2020-03-16,0,COVID-19 related,All,Western Isles
-2638,2020-03-30,0,COVID-19 related,All,Western Isles
-2700,2020-04-06,0,COVID-19 related,All,Western Isles
-2760,2020-04-27,0,COVID-19 related,All,Western Isles
-2790,2020-05-11,0,COVID-19 related,All,Western Isles
-2824,2020-05-04,0,COVID-19 related,All,Western Isles
+975,2020-06-22,6,All causes,All,Western Isles
+992,2020-05-25,7,All causes,All,Western Isles
+1012,2020-07-06,0,COVID-19 related,All,Western Isles
+1020,2020-07-06,5,All causes,All,Western Isles
+1022,2020-06-29,0,COVID-19 related,All,Western Isles
+1142,2020-07-13,7,All causes,All,Western Isles
+1145,2020-06-01,5,All causes,All,Western Isles
+1193,2020-08-03,7,All causes,All,Western Isles
+1216,2020-06-15,8,All causes,All,Western Isles
+1620,2020-06-08,10,All causes,All,Western Isles
+1758,2020-06-29,5,All causes,All,Western Isles
+1982,2020-01-13,10,All causes,All,Western Isles
+1983,2020-01-06,8,All causes,All,Western Isles
+1991,2020-05-18,5,All causes,All,Western Isles
+2013,2020-04-27,5,All causes,All,Western Isles
+2016,2020-04-06,8,All causes,All,Western Isles
+2024,2020-01-20,10,All causes,All,Western Isles
+2025,2020-02-10,3,All causes,All,Western Isles
+2026,2020-02-03,11,All causes,All,Western Isles
+2027,2019-12-30,9,All causes,All,Western Isles
+2029,2020-02-17,8,All causes,All,Western Isles
+2030,2020-03-16,5,All causes,All,Western Isles
+2031,2020-01-27,10,All causes,All,Western Isles
+2033,2020-03-09,11,All causes,All,Western Isles
+2035,2020-02-24,10,All causes,All,Western Isles
+2036,2020-03-02,6,All causes,All,Western Isles
+2163,2020-04-13,8,All causes,All,Western Isles
+2164,2020-05-11,4,All causes,All,Western Isles
+2165,2020-03-23,5,All causes,All,Western Isles
+2166,2020-03-30,6,All causes,All,Western Isles
+2167,2020-05-04,2,All causes,All,Western Isles
+2169,2020-04-20,10,All causes,All,Western Isles
+2359,2020-07-20,5,All causes,All,Western Isles
+2369,2020-07-27,7,All causes,All,Western Isles
+2536,2020-06-22,0,COVID-19 related,All,Western Isles
+2661,2020-06-08,0,COVID-19 related,All,Western Isles
+2684,2020-06-15,0,COVID-19 related,All,Western Isles
+3149,2020-05-18,0,COVID-19 related,All,Western Isles
+3150,2020-04-27,0,COVID-19 related,All,Western Isles
+3151,2020-04-06,0,COVID-19 related,All,Western Isles
+3161,2020-05-11,0,COVID-19 related,All,Western Isles
+3165,2020-05-04,0,COVID-19 related,All,Western Isles
+3297,2020-03-16,0,COVID-19 related,All,Western Isles
+3298,2020-03-23,0,COVID-19 related,All,Western Isles
+3309,2020-04-20,0,COVID-19 related,All,Western Isles
+3310,2020-03-30,0,COVID-19 related,All,Western Isles
+3313,2020-04-13,0,COVID-19 related,All,Western Isles
+3339,2020-05-25,0,COVID-19 related,All,Western Isles
+3343,2020-06-01,0,COVID-19 related,All,Western Isles
+3700,2020-07-27,0,COVID-19 related,All,Western Isles
+3705,2020-07-20,0,COVID-19 related,All,Western Isles
+4411,2020-07-13,0,COVID-19 related,All,Western Isles
+4439,2020-08-03,0,COVID-19 related,All,Western Isles
